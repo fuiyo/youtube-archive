@@ -1,6 +1,6 @@
 {
-  "totalSize": "8.5 MB",
-  "totalVideos": 2,
+  "totalSize": "67.3 MB",
+  "totalVideos": 3,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -18,6 +18,15 @@
       "channel": {
         "name": "Drake",
         "id": "UCByOQJjav0CUDwxCk-jVNRQ"
+      }
+    },
+    {
+      "id": "EocJm3Dry4E",
+      "title": "The US-Canada border splits this road down the middle",
+      "duration": 175,
+      "channel": {
+        "name": "Tom Scott",
+        "id": "UCBa659QWEk1AI4Tg--mrJ2A"
       }
     }
   ]
