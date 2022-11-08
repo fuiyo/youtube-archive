@@ -1,6 +1,7 @@
 // Made with love by Chee Yong Lee (https://joe.js.org) https://github.com/leecheeyong
 // This project is available as an open source under the MIT License
 const customSearch = ["apple"];
+const maxDuration = 120;
 const getSize = require('get-folder-size');
 const { performance } = require('perf_hooks');
 const ytdl = require('ytdl-core');
@@ -25,7 +26,7 @@ var indexFile = require('./videos.json');
         try {
         if(videos.includes(`${video.id}.mp4`)) return;
         if(downloaded.includes(video.id)) return;
-        if((video.duration / 60 ) > 60) return;
+        if((video.duration / 60 ) > maxDuration) return;
         await ytdl(`https://www.youtube.com/watch?v=${video.id}`).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
         downloaded.push(video.id);
         data.push({
@@ -54,7 +55,7 @@ var indexFile = require('./videos.json');
         try {
         if(videos.includes(`${video.id}.mp4`)) return;
         if(downloaded.includes(video.id)) return;
-        if((video.duration / 60 ) > 60) return;
+        if((video.duration / 60 ) > maxDuration) return;
         await ytdl(`https://www.youtube.com/watch?v=${video.id}`).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
         downloaded.push(video.id);
         data.push({
@@ -81,7 +82,7 @@ var indexFile = require('./videos.json');
             try {
             if(videos.includes(`${video.id}.mp4`)) return;
             if(downloaded.includes(video.id)) return;
-            if((video.duration / 60 ) > 60) return;
+            if((video.duration / 60 ) > maxDuration) return;
             await ytdl(`https://www.youtube.com/watch?v=${video.id}`).pipe(fs.createWriteStream(path.join(__dirname, 'videos', `${video.id}.mp4`)));
             downloaded.push(video.id);
             data.push({
@@ -111,9 +112,7 @@ var indexFile = require('./videos.json');
     for (let i = 0; i < allVideos.length; i += 20) {
         index.push(allVideos.slice(i, i + 20));
     }
-    console.log(allVideos.length)
     getSize('./videos', async (err, size) => {
-    console.log(index.length)
     index.forEach((e, i) => {
         fs.writeFileSync(`./index/index-${i}.json`, JSON.stringify({
           page: i,
