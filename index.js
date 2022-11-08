@@ -1,7 +1,7 @@
 // Made with love by Chee Yong Lee (https://joe.js.org) https://github.com/leecheeyong
 // This project is available as an open source under the MIT License
 const customSearch = ["apple"];
-const maxDuration = 120;
+const maxDuration = 60;
 const getSize = require('get-folder-size');
 const { performance } = require('perf_hooks');
 const ytdl = require('ytdl-core');
