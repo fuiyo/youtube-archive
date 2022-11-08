@@ -1,7 +1,7 @@
 // Made with love by Chee Yong Lee (https://joe.js.org) https://github.com/leecheeyong
 // This project is available as an open source under the MIT License
 const customSearch = ["apple"];
-const maxDuration = 10;
+const maxDuration = 5;
 const getSize = require('get-folder-size');
 const { performance } = require('perf_hooks');
 const ytdl = require('ytdl-core');
@@ -19,7 +19,7 @@ var indexFile = require('./videos.json');
     //download homepage
     const t = performance.now();  
     const t0 = performance.now();
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 3; i++) {
     try {
     const homepage = await search.homepage();
     homepage.forEach(async (video) => {
@@ -48,7 +48,7 @@ var indexFile = require('./videos.json');
     console.log(`Downloaded homepage in ${msTmin(t1 - t0)} milliseconds.`);
     //download trending
     const t2 = performance.now();
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 3; i++) {
     try {
     const trending = await search.trending();
     trending.forEach(async (video) => {
