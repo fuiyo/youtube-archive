@@ -1,6 +1,6 @@
 {
-  "totalSize": "84.0 MB",
-  "totalVideos": 5,
+  "totalSize": "84.5 MB",
+  "totalVideos": 6,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -45,6 +45,15 @@
       "channel": {
         "name": "Steven He",
         "id": "UCP0_k4INXrwPS6HhIyYqsTg"
+      }
+    },
+    {
+      "id": "ZWFiD5-hhFU",
+      "title": "The Newest Chapters in the Pokémon Series 📔 | Pokémon Scarlet and Pokémon Violet",
+      "duration": 236,
+      "channel": {
+        "name": "The Official Pokémon YouTube channel",
+        "id": "UCFctpiB_Hnlk3ejWfHqSm6Q"
       }
     }
   ]
