@@ -1,6 +1,6 @@
 {
-  "totalSize": "67.3 MB",
-  "totalVideos": 3,
+  "totalSize": "67.9 MB",
+  "totalVideos": 4,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -27,6 +27,15 @@
       "channel": {
         "name": "Tom Scott",
         "id": "UCBa659QWEk1AI4Tg--mrJ2A"
+      }
+    },
+    {
+      "id": "77ZF50ve6rs",
+      "title": "When a physics teacher knows his stuff !!",
+      "duration": 199,
+      "channel": {
+        "name": "Lectures by Walter Lewin. They will make you ♥ Physics.",
+        "id": "UCiEHVhv0SBMpP75JbzJShqw"
       }
     }
   ]
