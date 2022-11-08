@@ -1,0 +1,16 @@
+
+{
+    "name": "scripts",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "maintain": "node index.js"
+    },
+   "dependencies": {
+    "get-folder-size": "^2.0.1",
+    "node-fetch": "^2.6.7",
+    "youtube-sr": "^4.3.4",
+    "ytdl-core": "^4.11.2"
+  }
+}
