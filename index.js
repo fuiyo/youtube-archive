@@ -19,7 +19,7 @@ var indexFile = require('./videos.json');
     //download homepage
     const t = performance.now();  
     const t0 = performance.now();
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 2; i++) {
     try {
     const homepage = await search.homepage();
     homepage.forEach(async (video) => {
@@ -48,7 +48,7 @@ var indexFile = require('./videos.json');
     console.log(`Downloaded homepage in ${msTmin(t1 - t0)} milliseconds.`);
     //download trending
     const t2 = performance.now();
-    for(let i = 0; i < 5; i++) {
+    for(let i = 0; i < 2; i++) {
     try {
     const trending = await search.trending();
     trending.forEach(async (video) => {
