@@ -1,6 +1,6 @@
 {
-  "totalSize": "385.2 MB",
-  "totalVideos": 18,
+  "totalSize": "391.1 MB",
+  "totalVideos": 19,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -162,6 +162,15 @@
       "channel": {
         "name": "BlazeTV",
         "id": "UCKgJEs_v0JB-6jWb8lIy9Xw"
+      }
+    },
+    {
+      "id": "v056B-LchHk",
+      "title": "Here are some of the major takeaways from Election Night",
+      "duration": 124,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
