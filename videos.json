@@ -1,6 +1,6 @@
 {
-  "totalSize": "287.4 MB",
-  "totalVideos": 14,
+  "totalSize": "352.0 MB",
+  "totalVideos": 15,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -126,6 +126,15 @@
       "channel": {
         "name": "TED",
         "id": "UCAuUUnT6oDeKwE6v1NGQxug"
+      }
+    },
+    {
+      "id": "IDj1OBG5Tpw",
+      "title": "Harvard negotiator explains how to argue | Dan Shapiro",
+      "duration": 276,
+      "channel": {
+        "name": "Big Think",
+        "id": "UCvQECJukTDE2i6aCoMnS-Vg"
       }
     }
   ]
