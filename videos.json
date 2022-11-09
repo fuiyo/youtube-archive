@@ -1,6 +1,6 @@
 {
-  "totalSize": "391.1 MB",
-  "totalVideos": 19,
+  "totalSize": "393.6 MB",
+  "totalVideos": 20,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -171,6 +171,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "_Ux5-L5htlY",
+      "title": "Cavs x Avery Dennison",
+      "duration": 40,
+      "channel": {
+        "name": "Cleveland Cavaliers",
+        "id": "UCOdS-I1sYkKWhtTjMUWP_TA"
       }
     }
   ]
