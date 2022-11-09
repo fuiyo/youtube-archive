@@ -1,6 +1,6 @@
 {
-  "totalSize": "247.5 MB",
-  "totalVideos": 11,
+  "totalSize": "260.1 MB",
+  "totalVideos": 12,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -99,6 +99,15 @@
       "channel": {
         "name": "Daniel Thrasher",
         "id": "UCnZx--LpG2spgmlxOcC-DRA"
+      }
+    },
+    {
+      "id": "ZqZJzCgkNrE",
+      "title": "College wrestlers recount near-death fight with grizzly bear",
+      "duration": 202,
+      "channel": {
+        "name": "ABC 7 Chicago",
+        "id": "UC_vFLohxs5PkAxlk7Y6jEtw"
       }
     }
   ]
