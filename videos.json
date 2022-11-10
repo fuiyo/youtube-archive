@@ -1,6 +1,6 @@
 {
-  "totalSize": "599.1 MB",
-  "totalVideos": 30,
+  "totalSize": "604.5 MB",
+  "totalVideos": 31,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -270,6 +270,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "TaCkCTSDvuM",
+      "title": "Hurricane Nicole forecast, 3 a.m. Nov. 10, 2022",
+      "duration": 222,
+      "channel": {
+        "name": "WPTV News - FL Palm Beaches and Treasure Coast",
+        "id": "UC0bCUnP5RrkJZUtd3bBz6Kw"
       }
     }
   ]
