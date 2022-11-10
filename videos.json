@@ -1,6 +1,6 @@
 {
-  "totalSize": "584.4 MB",
-  "totalVideos": 28,
+  "totalSize": "597.6 MB",
+  "totalVideos": 29,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -252,6 +252,15 @@
       "channel": {
         "name": "thejuicemedia",
         "id": "UCKRw8GAAtm27q4R3Q0kst_g"
+      }
+    },
+    {
+      "id": "eEX46xlW-w4",
+      "title": "Midterm elections: Where things stand 24 hours after polls closed",
+      "duration": 230,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
