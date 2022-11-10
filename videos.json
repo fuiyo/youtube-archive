@@ -1,6 +1,6 @@
 {
-  "totalSize": "741.4 MB",
-  "totalVideos": 38,
+  "totalSize": "751.7 MB",
+  "totalVideos": 39,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -342,6 +342,15 @@
       "channel": {
         "name": "Lionsgate Movies",
         "id": "UCJ6nMHaJPZvsJ-HmUmj1SeA"
+      }
+    },
+    {
+      "id": "WTmgw3AI3vM",
+      "title": "Four States Reject Slavery & Louisiana Votes to Keep It | The Daily Show",
+      "duration": 246,
+      "channel": {
+        "name": "The Daily Show with Trevor Noah",
+        "id": "UCwWhs_6x42TyRM4Wstoq8HA"
       }
     }
   ]
