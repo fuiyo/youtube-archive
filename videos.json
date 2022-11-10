@@ -1,6 +1,6 @@
 {
-  "totalSize": "751.7 MB",
-  "totalVideos": 39,
+  "totalSize": "791.7 MB",
+  "totalVideos": 40,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -351,6 +351,15 @@
       "channel": {
         "name": "The Daily Show with Trevor Noah",
         "id": "UCwWhs_6x42TyRM4Wstoq8HA"
+      }
+    },
+    {
+      "id": "Wz7GqNCkctU",
+      "title": "This man raised an opossum. Now he thinks they are smarter than dogs.",
+      "duration": 264,
+      "channel": {
+        "name": "GeoBeats Animals",
+        "id": "UC7_VH_kj0aD9vhuHmFheUYQ"
       }
     }
   ]
