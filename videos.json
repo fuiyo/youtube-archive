@@ -1,6 +1,6 @@
 {
-  "totalSize": "597.6 MB",
-  "totalVideos": 29,
+  "totalSize": "599.1 MB",
+  "totalVideos": 30,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -261,6 +261,15 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "EwdY-jB_lmM",
+      "title": "Shaq turns down boy's handshake for something better",
+      "duration": 22,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
