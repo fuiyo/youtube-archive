@@ -1,6 +1,6 @@
 {
   "totalSize": "1.2 GB",
-  "totalVideos": 54,
+  "totalVideos": 55,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -486,6 +486,15 @@
       "channel": {
         "name": "Vox",
         "id": "UCLXo7UDZvByw2ixzpQCufnA"
+      }
+    },
+    {
+      "id": "gneBUA39mnI",
+      "title": "\"INAUGURATION DAY\" — A Bad Lip Reading of Donald Trump's Inauguration",
+      "duration": 267,
+      "channel": {
+        "name": "Bad Lip Reading",
+        "id": "UC67f2Qf7FYhtoUIF4Sf29cA"
       }
     }
   ]
