@@ -1,6 +1,6 @@
 {
   "totalSize": "1.4 GB",
-  "totalVideos": 64,
+  "totalVideos": 65,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -576,6 +576,15 @@
       "channel": {
         "name": "Wonder World",
         "id": "UC0k173Oca1nPZurW2ITHlYw"
+      }
+    },
+    {
+      "id": "QJ8C3jODCNQ",
+      "title": "Organizers plan BLM mural and ask community to help add handprints",
+      "duration": 24,
+      "channel": {
+        "name": "WCNC",
+        "id": "UC-RxXi2Xws6Uk22vp-sLbGA"
       }
     }
   ]
