@@ -1,6 +1,6 @@
 {
   "totalSize": "1.7 GB",
-  "totalVideos": 77,
+  "totalVideos": 78,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -693,6 +693,15 @@
       "channel": {
         "name": "Jeremy Schaefer",
         "id": "UCLj37zddo5xAI87lbLVPfIA"
+      }
+    },
+    {
+      "id": "AKJfakEsgy0",
+      "title": "Hi Me In 5 Years",
+      "duration": 128,
+      "channel": {
+        "name": "MrBeast",
+        "id": "UCX6OQ3DkcsbYNE6H8uQQuVA"
       }
     }
   ]
