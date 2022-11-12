@@ -1,6 +1,6 @@
 {
-  "totalSize": "1.7 GB",
-  "totalVideos": 79,
+  "totalSize": "1.8 GB",
+  "totalVideos": 80,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -711,6 +711,15 @@
       "channel": {
         "name": "ShivVZG",
         "id": "UCmc6MLee74_cWEyjZF94L8g"
+      }
+    },
+    {
+      "id": "L6rK3e7mwcI",
+      "title": "When you accidentally write songs that already exist part 2",
+      "duration": 259,
+      "channel": {
+        "name": "Daniel Thrasher",
+        "id": "UCnZx--LpG2spgmlxOcC-DRA"
       }
     }
   ]
