@@ -1,6 +1,6 @@
 {
   "totalSize": "1.9 GB",
-  "totalVideos": 83,
+  "totalVideos": 85,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -747,6 +747,24 @@
       "channel": {
         "name": "Tell It Animated",
         "id": "UCgb5Cb71XvKXT5V1d2ORVmg"
+      }
+    },
+    {
+      "id": "iYJr9pZxSPM",
+      "title": "Welcome to the Harvest",
+      "duration": 213,
+      "channel": {
+        "name": "TheOdd1sOut",
+        "id": "UCo8bcnLyZH8tBIH9V1mLgqQ"
+      }
+    },
+    {
+      "id": "WO_ASsAQVjU",
+      "title": "Gluesenkamp Perez maintains lead after large ballot drop in tight race for Washington's 3rd District",
+      "duration": 139,
+      "channel": {
+        "name": "KGW News",
+        "id": "UCKgAB8lqTbqbwXC-e6_9lhQ"
       }
     }
   ]
