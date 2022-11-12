@@ -1,6 +1,6 @@
 {
   "totalSize": "1.6 GB",
-  "totalVideos": 70,
+  "totalVideos": 71,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -630,6 +630,15 @@
       "channel": {
         "name": "Insider",
         "id": "UCHJuQZuzapBh-CuhRYxIZrg"
+      }
+    },
+    {
+      "id": "nAHBekea2Fc",
+      "title": "What's really hiding under Cheyenne Mountain in Colorado?",
+      "duration": 276,
+      "channel": {
+        "name": "9NEWS",
+        "id": "UC72nbKQLSDyiSARhg0Ywj4w"
       }
     }
   ]
