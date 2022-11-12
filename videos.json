@@ -1,6 +1,6 @@
 {
   "totalSize": "1.7 GB",
-  "totalVideos": 75,
+  "totalVideos": 76,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -675,6 +675,15 @@
       "channel": {
         "name": "FouFa Torino",
         "id": "UCO0nbdaXhnLgVG97PWDRt1w"
+      }
+    },
+    {
+      "id": "R3ZgAPR-zek",
+      "title": "Lofi Girl gets her test score back 📝",
+      "duration": 58,
+      "channel": {
+        "name": "Lofi Girl",
+        "id": "UCSJ4gkVC6NrvII8umztf0Ow"
       }
     }
   ]
