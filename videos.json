@@ -1,6 +1,6 @@
 {
   "totalSize": "1.7 GB",
-  "totalVideos": 74,
+  "totalVideos": 75,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -666,6 +666,15 @@
       "channel": {
         "name": "The Daily Show with Trevor Noah",
         "id": "UCwWhs_6x42TyRM4Wstoq8HA"
+      }
+    },
+    {
+      "id": "rhXq5NR4rB0",
+      "title": "Foufa Torino - Où va ma vie (Official Music Video)",
+      "duration": 240,
+      "channel": {
+        "name": "FouFa Torino",
+        "id": "UCO0nbdaXhnLgVG97PWDRt1w"
       }
     }
   ]
