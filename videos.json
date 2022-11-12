@@ -1,6 +1,6 @@
 {
   "totalSize": "1.4 GB",
-  "totalVideos": 66,
+  "totalVideos": 68,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -594,6 +594,24 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "tY7_A4x7O88",
+      "title": "Takeoff’s Funeral: Watch Chlöe Bailey and Drake’s Tributes",
+      "duration": 184,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
+      }
+    },
+    {
+      "id": "Od2NW1sfRdA",
+      "title": "GUILLERMO DEL TORO'S PINOCCHIO | Official Trailer | Netflix",
+      "duration": 156,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
       }
     }
   ]
