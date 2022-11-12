@@ -1,6 +1,6 @@
 {
   "totalSize": "1.4 GB",
-  "totalVideos": 65,
+  "totalVideos": 66,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -585,6 +585,15 @@
       "channel": {
         "name": "WCNC",
         "id": "UC-RxXi2Xws6Uk22vp-sLbGA"
+      }
+    },
+    {
+      "id": "kpSdxE0DhC4",
+      "title": "'A dramatic shift': John King breaks down latest Nevada Senate numbers",
+      "duration": 245,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
