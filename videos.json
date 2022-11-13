@@ -1,6 +1,6 @@
 {
   "totalSize": "2.0 GB",
-  "totalVideos": 92,
+  "totalVideos": 94,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -828,6 +828,24 @@
       "channel": {
         "name": "Glamour",
         "id": "UCY9eEaH19ulZmdusctU1ejA"
+      }
+    },
+    {
+      "id": "1d-OnnqWlcc",
+      "title": "Democrats Win In Nevada, Maintain Control Of Senate",
+      "duration": 120,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "dJNGi-bt9NM",
+      "title": "If You Could See Every Satellite, What Would The Sky Look Like? 360/VR",
+      "duration": 263,
+      "channel": {
+        "name": "Scott Manley",
+        "id": "UCxzC4EngIsMrPmbm6Nxvb-A"
       }
     }
   ]
