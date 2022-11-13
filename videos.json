@@ -1,6 +1,6 @@
 {
   "totalSize": "2.1 GB",
-  "totalVideos": 105,
+  "totalVideos": 106,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -945,6 +945,15 @@
       "channel": {
         "name": "BANGTANTV",
         "id": "UCLkAepWjdylmXSltofFvsYQ"
+      }
+    },
+    {
+      "id": "_FPWmtUQDyE",
+      "title": "Filipina-Argentinian member ng K-Pop group na 'Lapillus' na si Chanty, certified Kapuso na | 24 Oras",
+      "duration": 180,
+      "channel": {
+        "name": "GMA News",
+        "id": "UCqYw-CTd1dU2yGI71sEyqNw"
       }
     }
   ]
