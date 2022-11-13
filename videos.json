@@ -1,6 +1,6 @@
 {
   "totalSize": "2.0 GB",
-  "totalVideos": 91,
+  "totalVideos": 92,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -819,6 +819,15 @@
       "channel": {
         "name": "It's a Southern Thing",
         "id": "UCDyCK-HRoSqUsowdKzOVHZA"
+      }
+    },
+    {
+      "id": "E0AFk-6PWGM",
+      "title": "100 Years of Banned Fashion | Glamour",
+      "duration": 276,
+      "channel": {
+        "name": "Glamour",
+        "id": "UCY9eEaH19ulZmdusctU1ejA"
       }
     }
   ]
