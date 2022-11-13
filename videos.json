@@ -1,6 +1,6 @@
 {
   "totalSize": "2.2 GB",
-  "totalVideos": 108,
+  "totalVideos": 109,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -972,6 +972,15 @@
       "channel": {
         "name": "Steven He",
         "id": "UCP0_k4INXrwPS6HhIyYqsTg"
+      }
+    },
+    {
+      "id": "T4EitcFRb7A",
+      "title": "How cooling inflation could affect housing market",
+      "duration": 155,
+      "channel": {
+        "name": "ABC 10 News",
+        "id": "UCQv44qD9R5Ae6Z3iUeZm7iQ"
       }
     }
   ]
