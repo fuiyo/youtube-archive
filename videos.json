@@ -1,6 +1,6 @@
 {
   "totalSize": "2.1 GB",
-  "totalVideos": 103,
+  "totalVideos": 104,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -927,6 +927,15 @@
       "channel": {
         "name": "Crush",
         "id": "UCEU3spVQMmXrU0Nqhw00Gpg"
+      }
+    },
+    {
+      "id": "d9MyW72ELq0",
+      "title": "Avatar: The Way of Water | Official Trailer",
+      "duration": 149,
+      "channel": {
+        "name": "Avatar",
+        "id": "UCgjxQJ6TlKqhHax8742ZMdA"
       }
     }
   ]
