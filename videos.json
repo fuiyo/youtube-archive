@@ -1,6 +1,6 @@
 {
-  "totalSize": "2.1 GB",
-  "totalVideos": 106,
+  "totalSize": "2.2 GB",
+  "totalVideos": 107,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -954,6 +954,15 @@
       "channel": {
         "name": "GMA News",
         "id": "UCqYw-CTd1dU2yGI71sEyqNw"
+      }
+    },
+    {
+      "id": "ijL1WqOy9Fk",
+      "title": "Democrats clinch control of Senate with Nevada win",
+      "duration": 88,
+      "channel": {
+        "name": "Reuters",
+        "id": "UChqUTb7kYRX8-EiaN3XFrSQ"
       }
     }
   ]
