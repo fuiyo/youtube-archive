@@ -1,6 +1,6 @@
 {
   "totalSize": "2.0 GB",
-  "totalVideos": 94,
+  "totalVideos": 97,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -846,6 +846,33 @@
       "channel": {
         "name": "Scott Manley",
         "id": "UCxzC4EngIsMrPmbm6Nxvb-A"
+      }
+    },
+    {
+      "id": "_nTwDbIh-XY",
+      "title": "Chuck Schumer Reacts To Dems Maintaining Control Of The Senate",
+      "duration": 88,
+      "channel": {
+        "name": "MSNBC",
+        "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "71_wCfnwmnE",
+      "title": "Dive team discovers debris from NASA Challenger space shuttle",
+      "duration": 123,
+      "channel": {
+        "name": "Global News",
+        "id": "UChLtXXpo4Ge1ReTEboVvTDg"
+      }
+    },
+    {
+      "id": "7qywHIl0qEo",
+      "title": "National War Memorial in Ottawa explained",
+      "duration": 72,
+      "channel": {
+        "name": "CBC News",
+        "id": "UCuFFtHWoLl5fauMMD5Ww2jA"
       }
     }
   ]
