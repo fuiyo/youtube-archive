@@ -1,6 +1,6 @@
 {
   "totalSize": "2.7 GB",
-  "totalVideos": 139,
+  "totalVideos": 140,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1248,6 +1248,15 @@
       "id": "1Tbo5YQs04o",
       "title": "Sick Wild Fox Gets So Pretty And Playful | The Dodo Wild Hearts",
       "duration": 201,
+      "channel": {
+        "name": "The Dodo",
+        "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "5g_SCru5V3w",
+      "title": "Street Puppy Runs Into Her New Dad's Arms | The Dodo Heroes",
+      "duration": 241,
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
