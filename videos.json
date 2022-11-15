@@ -1,6 +1,6 @@
 {
   "totalSize": "2.7 GB",
-  "totalVideos": 143,
+  "totalVideos": 144,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1287,6 +1287,15 @@
       "channel": {
         "name": "ABC News (Australia)",
         "id": "UCVgO39Bk5sMo66-6o6Spn6Q"
+      }
+    },
+    {
+      "id": "C2YSX4sV_bA",
+      "title": "Gucci Mane - Letter to Takeoff [Official Music Video]",
+      "duration": 218,
+      "channel": {
+        "name": "Gucci Mane",
+        "id": "UCSugZEYrWbzqIWGD195V-YA"
       }
     }
   ]
