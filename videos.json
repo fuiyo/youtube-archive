@@ -1,6 +1,6 @@
 {
   "totalSize": "3.0 GB",
-  "totalVideos": 163,
+  "totalVideos": 164,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1467,6 +1467,15 @@
       "channel": {
         "name": "vidIQ",
         "id": "UCZLFu8bHbwtnIgWLg5UtINw"
+      }
+    },
+    {
+      "id": "Gzs60iBgd3E",
+      "title": "DUKI || BZRP Music Sessions #50",
+      "duration": 232,
+      "channel": {
+        "name": "Bizarrap",
+        "id": "UCmS75G-98QihSusY7NfCZtw"
       }
     }
   ]
