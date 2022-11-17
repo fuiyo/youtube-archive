@@ -1,6 +1,6 @@
 {
   "totalSize": "3.0 GB",
-  "totalVideos": 169,
+  "totalVideos": 170,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1521,6 +1521,15 @@
       "channel": {
         "name": "ABC7",
         "id": "UCVxBA3Cbu3pm8w8gEIoMEog"
+      }
+    },
+    {
+      "id": "SYIgPMrKgq4",
+      "title": "Duquesne University gets planning approval to build new dorm",
+      "duration": 15,
+      "channel": {
+        "name": "CBS Pittsburgh",
+        "id": "UCOEvClYLRZcT5bNCCI5eMKg"
       }
     }
   ]
