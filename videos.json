@@ -1,6 +1,6 @@
 {
   "totalSize": "3.1 GB",
-  "totalVideos": 175,
+  "totalVideos": 176,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1575,6 +1575,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "XerB_xUk8Ko",
+      "title": "Guy brings home a cat for wife. Guess who's the third wheel now.",
+      "duration": 185,
+      "channel": {
+        "name": "GeoBeats Animals",
+        "id": "UC7_VH_kj0aD9vhuHmFheUYQ"
       }
     }
   ]
