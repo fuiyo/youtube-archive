@@ -1,6 +1,6 @@
 {
   "totalSize": "3.7 GB",
-  "totalVideos": 207,
+  "totalVideos": 208,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1863,6 +1863,15 @@
       "channel": {
         "name": "belu-mom ",
         "id": "UCO0svcwgYFmTynhrJHXDxgA"
+      }
+    },
+    {
+      "id": "FbfFa9xGElI",
+      "title": "Club Q: Witness Describes Mass Shooting Inside The Colorado Springs LGBTQ+ Club",
+      "duration": 142,
+      "channel": {
+        "name": "9NEWS",
+        "id": "UC72nbKQLSDyiSARhg0Ywj4w"
       }
     }
   ]
