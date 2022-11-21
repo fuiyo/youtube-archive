@@ -1,6 +1,6 @@
 {
   "totalSize": "3.8 GB",
-  "totalVideos": 214,
+  "totalVideos": 216,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1926,6 +1926,24 @@
       "channel": {
         "name": "NBC Bay Area",
         "id": "UCmKKVuZrBfSGiuvtOuipoDA"
+      }
+    },
+    {
+      "id": "gYqzu8ISlyo",
+      "title": "Elon Musk trolls CBS News over exit from Twitter",
+      "duration": 150,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "MxHXCZnlNnQ",
+      "title": "8 News Now Investigators: Area 51 website raided by the FBI",
+      "duration": 295,
+      "channel": {
+        "name": "8 News NOW Las Vegas",
+        "id": "UCFuzExfO2fUVmNK5_COvsNg"
       }
     }
   ]
