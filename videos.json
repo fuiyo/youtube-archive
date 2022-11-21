@@ -1,6 +1,6 @@
 {
   "totalSize": "3.8 GB",
-  "totalVideos": 213,
+  "totalVideos": 214,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -1917,6 +1917,15 @@
       "channel": {
         "name": "The Dodo",
         "id": "UCINb0wqPz-A0dV9nARjJlOQ"
+      }
+    },
+    {
+      "id": "q4z98AxX_Mc",
+      "title": "San Francisco's LGBTQ Community Holds Vigil to Remember Colorado Shooting Victims",
+      "duration": 291,
+      "channel": {
+        "name": "NBC Bay Area",
+        "id": "UCmKKVuZrBfSGiuvtOuipoDA"
       }
     }
   ]
