@@ -1,6 +1,6 @@
 {
   "totalSize": "4.2 GB",
-  "totalVideos": 233,
+  "totalVideos": 234,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2097,6 +2097,15 @@
       "channel": {
         "name": "MSNBC",
         "id": "UCaXkIU1QidjPwiAYu6GcHjg"
+      }
+    },
+    {
+      "id": "D0kVR0s7p7g",
+      "title": "France vs. Australia Highlights | 2022 FIFA World Cup",
+      "duration": 300,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
