@@ -1,6 +1,6 @@
 {
   "totalSize": "4.2 GB",
-  "totalVideos": 238,
+  "totalVideos": 239,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2142,6 +2142,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "LP4oCDM-Auk",
+      "title": "Seahawks Daily: Fresh For The Finish",
+      "duration": 199,
+      "channel": {
+        "name": "Seattle Seahawks",
+        "id": "UCzkFCRiMcOBeef8xcaqipmw"
       }
     }
   ]
