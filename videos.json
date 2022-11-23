@@ -1,6 +1,6 @@
 {
-  "totalSize": "4.2 GB",
-  "totalVideos": 239,
+  "totalSize": "4.3 GB",
+  "totalVideos": 240,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2151,6 +2151,15 @@
       "channel": {
         "name": "Seattle Seahawks",
         "id": "UCzkFCRiMcOBeef8xcaqipmw"
+      }
+    },
+    {
+      "id": "I9mprvyOOc4",
+      "title": "Liberal mayor taken to court over 'First Amendment attack'",
+      "duration": 268,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
