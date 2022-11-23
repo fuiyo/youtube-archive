@@ -1,6 +1,6 @@
 {
   "totalSize": "4.2 GB",
-  "totalVideos": 236,
+  "totalVideos": 237,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2124,6 +2124,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "BmM-Zl2uKWc",
+      "title": "Budget talks begin at Calgary City Council",
+      "duration": 120,
+      "channel": {
+        "name": "CityNews",
+        "id": "UCVKAcQQCO8vv87Gk62SutAg"
       }
     }
   ]
