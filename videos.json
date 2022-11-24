@@ -1,6 +1,6 @@
 {
   "totalSize": "4.6 GB",
-  "totalVideos": 263,
+  "totalVideos": 264,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2367,6 +2367,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "QjpGCig97Vc",
+      "title": "‘A Philly Special Christmas' Will Get Eagles Fans in the Holiday Spirit",
+      "duration": 214,
+      "channel": {
+        "name": "NBC10 Philadelphia",
+        "id": "UCD158fKWVgwCkOooKEoJ1kw"
       }
     }
   ]
