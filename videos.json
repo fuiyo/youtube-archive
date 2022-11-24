@@ -1,6 +1,6 @@
 {
   "totalSize": "4.6 GB",
-  "totalVideos": 262,
+  "totalVideos": 263,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2355,6 +2355,15 @@
       "id": "2hSVDLPWeKA",
       "title": "Spain vs. Costa Rica Highlights | 2022 FIFA World Cup",
       "duration": 286,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "LRH-4Sq4dOQ",
+      "title": "Portugal vs. Ghana Highlights | 2022 FIFA World Cup",
+      "duration": 284,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
