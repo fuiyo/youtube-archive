@@ -1,6 +1,6 @@
 {
   "totalSize": "5.0 GB",
-  "totalVideos": 288,
+  "totalVideos": 289,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2592,6 +2592,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "F6X6M9kZWNU",
+      "title": "As Florida tries to change ‘Resign to run’ laws, Mayor curry wants voters to implement them in J...",
+      "duration": 155,
+      "channel": {
+        "name": "News4JAX",
+        "id": "UC_YFbvKedjnVjqrZqBR4L8Q"
       }
     }
   ]
