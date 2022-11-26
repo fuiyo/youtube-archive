@@ -1,6 +1,6 @@
 {
   "totalSize": "5.3 GB",
-  "totalVideos": 302,
+  "totalVideos": 303,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2718,6 +2718,15 @@
       "channel": {
         "name": "Cilvanis",
         "id": "UCccnyrT2NeVDzypO64Dif-A"
+      }
+    },
+    {
+      "id": "JbZvR73r0aI",
+      "title": "Ottawa vigil held for victims of mass shooting at LGBTQ bar in Colorado",
+      "duration": 93,
+      "channel": {
+        "name": "Ottawa Citizen",
+        "id": "UCYYSLCzDmmED5hnYcFmKimA"
       }
     }
   ]
