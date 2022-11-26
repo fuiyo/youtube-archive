@@ -1,6 +1,6 @@
 {
   "totalSize": "5.3 GB",
-  "totalVideos": 308,
+  "totalVideos": 309,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2772,6 +2772,15 @@
       "channel": {
         "name": "OMNI Television",
         "id": "UC_8NvxZFBoG5vtco9_TvYfw"
+      }
+    },
+    {
+      "id": "_Ea92dZhVMM",
+      "title": "Mainstream media is ‘covering’ this for the White House",
+      "duration": 237,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
