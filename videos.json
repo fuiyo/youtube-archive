@@ -1,6 +1,6 @@
 {
-  "totalSize": "5.5 GB",
-  "totalVideos": 315,
+  "totalSize": "5.6 GB",
+  "totalVideos": 316,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2835,6 +2835,15 @@
       "channel": {
         "name": "BOL News",
         "id": "UCz2yxQJZgiB_5elTzqV7FiQ"
+      }
+    },
+    {
+      "id": "eSFhd-CGIWU",
+      "title": "I'm Gonna Kill Santa Claus - Official Music Video",
+      "duration": 154,
+      "channel": {
+        "name": "Danny Gonzalez",
+        "id": "UCSUf5_EPEfl4zlBKZHkZdmw"
       }
     }
   ]
