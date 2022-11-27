@@ -1,6 +1,6 @@
 {
   "totalSize": "5.6 GB",
-  "totalVideos": 320,
+  "totalVideos": 321,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2880,6 +2880,15 @@
       "channel": {
         "name": "ESPN",
         "id": "UCiWLfSweyRNmLpgEHekhoAg"
+      }
+    },
+    {
+      "id": "6PXORQE5-CY",
+      "title": "JFK assassination: Cronkite informs a shocked nation",
+      "duration": 111,
+      "channel": {
+        "name": "CBS Sunday Morning",
+        "id": "UCVT1tPkR-fUVlO652EcO3ow"
       }
     }
   ]
