@@ -1,6 +1,6 @@
 {
   "totalSize": "5.6 GB",
-  "totalVideos": 318,
+  "totalVideos": 319,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2862,6 +2862,15 @@
       "channel": {
         "name": "Beluga",
         "id": "UCmSp4bDxS9R0jpeZEvkut2g"
+      }
+    },
+    {
+      "id": "GDici78OFEg",
+      "title": "Growing Protests In China Over Zero-Covid Restrictions",
+      "duration": 122,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
