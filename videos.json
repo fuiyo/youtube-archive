@@ -1,6 +1,6 @@
 {
   "totalSize": "5.8 GB",
-  "totalVideos": 334,
+  "totalVideos": 335,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3006,6 +3006,15 @@
       "channel": {
         "name": "CBC News: The National",
         "id": "UCKjU3KzdbJE1EFcHVqXC3_g"
+      }
+    },
+    {
+      "id": "VSr7iHVhKSE",
+      "title": "USC DL Tuli Tuipulotu on stopping the Notre Dame run game, defense stepping up to expectations",
+      "duration": 289,
+      "channel": {
+        "name": "USCAthletics",
+        "id": "UCFnDxyL6N0et_oM0wjACqzw"
       }
     }
   ]
