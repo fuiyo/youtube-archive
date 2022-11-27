@@ -1,6 +1,6 @@
 {
   "totalSize": "5.7 GB",
-  "totalVideos": 322,
+  "totalVideos": 324,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -2898,6 +2898,24 @@
       "channel": {
         "name": "Avriih simba",
         "id": "UCBlOQGeY7FjCiMC85QMEi9w"
+      }
+    },
+    {
+      "id": "-pC210nxx2g",
+      "title": "Why Ranboo & Tubbo Were Removed From Philza's Youtooz",
+      "duration": 147,
+      "channel": {
+        "name": "Canooon",
+        "id": "UC8f80fwHF6nGLal5_1x0Slw"
+      }
+    },
+    {
+      "id": "0pF2QmsxMXo",
+      "title": "Woman Crawls Behind Husband While He’s on Zoom",
+      "duration": 63,
+      "channel": {
+        "name": "Inside Edition",
+        "id": "UC9k-yiEpRHMNVOnOi_aQK8w"
       }
     }
   ]
