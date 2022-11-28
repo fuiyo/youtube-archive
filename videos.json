@@ -1,6 +1,6 @@
 {
   "totalSize": "6.1 GB",
-  "totalVideos": 350,
+  "totalVideos": 352,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3150,6 +3150,24 @@
       "channel": {
         "name": "Super Renell - Kids Songs",
         "id": "UC7JKloC8ELKQS1hE_PhhWSw"
+      }
+    },
+    {
+      "id": "El4BObG-HX0",
+      "title": "Stole my shoe and bit me! | Crazy Alaskan Malamute",
+      "duration": 187,
+      "channel": {
+        "name": "Girl With The Dogs",
+        "id": "UCUFnGWHIQvybwmR7XDh7-9A"
+      }
+    },
+    {
+      "id": "v29h93DcUH4",
+      "title": "Brazil vs. Switzerland Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
