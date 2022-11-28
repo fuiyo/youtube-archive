@@ -1,6 +1,6 @@
 {
   "totalSize": "6.0 GB",
-  "totalVideos": 343,
+  "totalVideos": 344,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3087,6 +3087,15 @@
       "channel": {
         "name": "SMTOWN",
         "id": "UCEf_Bc-KVd7onSeifS3py9g"
+      }
+    },
+    {
+      "id": "9ehnYTjSoDw",
+      "title": "Officials Obtain Arrest Warrant In Death Of 25-Year-Old Shanquella Robinson",
+      "duration": 227,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
