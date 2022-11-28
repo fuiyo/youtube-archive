@@ -1,6 +1,6 @@
 {
   "totalSize": "6.1 GB",
-  "totalVideos": 348,
+  "totalVideos": 349,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3132,6 +3132,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "5hUh00cYSOg",
+      "title": "Long-time residents show how the Hayward Fault's movement has changed their home",
+      "duration": 239,
+      "channel": {
+        "name": "KPIX CBS SF Bay Area",
+        "id": "UCF4LEacx9sDvAbEJnlaJfKQ"
       }
     }
   ]
