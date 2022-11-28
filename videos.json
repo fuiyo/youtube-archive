@@ -1,6 +1,6 @@
 {
-  "totalSize": "6.0 GB",
-  "totalVideos": 347,
+  "totalSize": "6.1 GB",
+  "totalVideos": 348,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3123,6 +3123,15 @@
       "channel": {
         "name": "Metallica",
         "id": "UCbulh9WdLtEXiooRcYK7SWw"
+      }
+    },
+    {
+      "id": "62-AGlwbRIE",
+      "title": "South Korea vs. Ghana Highlights | 2022 FIFA World Cup",
+      "duration": 294,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
