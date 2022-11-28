@@ -1,6 +1,6 @@
 {
   "totalSize": "5.9 GB",
-  "totalVideos": 337,
+  "totalVideos": 338,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3033,6 +3033,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "O-o-iddNpDk",
+      "title": "Campos-Duffy: Why isn't anyone talking about this?",
+      "duration": 280,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
