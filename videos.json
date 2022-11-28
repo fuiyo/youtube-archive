@@ -1,6 +1,6 @@
 {
   "totalSize": "6.0 GB",
-  "totalVideos": 346,
+  "totalVideos": 347,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3114,6 +3114,15 @@
       "channel": {
         "name": "Colby Jeffers",
         "id": "UCqTbMBRiI77KQfFTWnH7y9g"
+      }
+    },
+    {
+      "id": "_u-7rWKnVVo",
+      "title": "Metallica: Lux Æterna (Official Music Video)",
+      "duration": 211,
+      "channel": {
+        "name": "Metallica",
+        "id": "UCbulh9WdLtEXiooRcYK7SWw"
       }
     }
   ]
