@@ -1,6 +1,6 @@
 {
   "totalSize": "6.2 GB",
-  "totalVideos": 356,
+  "totalVideos": 357,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3204,6 +3204,15 @@
       "channel": {
         "name": "EllenPlaysBass",
         "id": "UCvrmr8Nfd86dG7pnSHC7c6Q"
+      }
+    },
+    {
+      "id": "iV1OVKEMlTk",
+      "title": "Portugal vs. Uruguay Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
