@@ -1,6 +1,6 @@
 {
   "totalSize": "6.2 GB",
-  "totalVideos": 357,
+  "totalVideos": 358,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3213,6 +3213,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "bPsDr9vBSEQ",
+      "title": "The Smoothest Man in America",
+      "duration": 151,
+      "channel": {
+        "name": "Daily Dose Of Internet",
+        "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
       }
     }
   ]
