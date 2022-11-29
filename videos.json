@@ -1,6 +1,6 @@
 {
-  "totalSize": "6.4 GB",
-  "totalVideos": 369,
+  "totalSize": "6.5 GB",
+  "totalVideos": 371,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3321,6 +3321,24 @@
       "channel": {
         "name": "Dua Lipa",
         "id": "UC-J-KZfRV8c13fOCkhXdLiQ"
+      }
+    },
+    {
+      "id": "6-YcKHLsuew",
+      "title": "Croatia vs. Canada Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "cAD9rMrWc_U",
+      "title": "No Wind Resistance SPED UP!",
+      "duration": 166,
+      "channel": {
+        "name": "Kinneret",
+        "id": "UCCJB80EIhkEEVbI4RHOBnrw"
       }
     }
   ]
