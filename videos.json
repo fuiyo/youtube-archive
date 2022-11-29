@@ -1,6 +1,6 @@
 {
   "totalSize": "6.6 GB",
-  "totalVideos": 378,
+  "totalVideos": 380,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3399,6 +3399,24 @@
       "id": "ufIbJCJUoJU",
       "title": "Wales vs. England Highlights | 2022 FIFA World Cup",
       "duration": 299,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "qDCY3EE23lQ",
+      "title": "easy aesthetic doodle ideas ♡ Lia Hansen TikTok compilation ♡ easy art ideas for when you’re bored",
+      "duration": 197,
+      "channel": {
+        "name": "Lia Hansen",
+        "id": "UCVPONwQa8FuYN-VK0gS8Guw"
+      }
+    },
+    {
+      "id": "TNl7ZcnDB0Q",
+      "title": "Iran vs. United States Highlights | 2022 FIFA World Cup",
+      "duration": 300,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
