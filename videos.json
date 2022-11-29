@@ -1,6 +1,6 @@
 {
   "totalSize": "6.5 GB",
-  "totalVideos": 371,
+  "totalVideos": 372,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3339,6 +3339,15 @@
       "channel": {
         "name": "Kinneret",
         "id": "UCCJB80EIhkEEVbI4RHOBnrw"
+      }
+    },
+    {
+      "id": "rCs5drZaO_g",
+      "title": "Ecuador vs. Senegal Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
