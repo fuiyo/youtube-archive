@@ -1,6 +1,6 @@
 {
   "totalSize": "6.4 GB",
-  "totalVideos": 368,
+  "totalVideos": 369,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3312,6 +3312,15 @@
       "channel": {
         "name": "Pussy Riot",
         "id": "UCQYcCfKYfYMcuCsem8z5CyQ"
+      }
+    },
+    {
+      "id": "BC19kwABFwc",
+      "title": "Dua Lipa - Love Again (Official Music Video)",
+      "duration": 263,
+      "channel": {
+        "name": "Dua Lipa",
+        "id": "UC-J-KZfRV8c13fOCkhXdLiQ"
       }
     }
   ]
