@@ -1,6 +1,6 @@
 {
   "totalSize": "6.5 GB",
-  "totalVideos": 372,
+  "totalVideos": 374,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3345,6 +3345,24 @@
       "id": "rCs5drZaO_g",
       "title": "Ecuador vs. Senegal Highlights | 2022 FIFA World Cup",
       "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "bR7FE_oOXUk",
+      "title": "Fired Keystone Pipeline worker rejects White House's latest oil claims",
+      "duration": 250,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "hykVIIB7fF8",
+      "title": "Netherlands vs. Qatar Highlights | 2022 FIFA World Cup",
+      "duration": 295,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
