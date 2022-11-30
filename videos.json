@@ -1,6 +1,6 @@
 {
   "totalSize": "6.8 GB",
-  "totalVideos": 392,
+  "totalVideos": 393,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3528,6 +3528,15 @@
       "channel": {
         "name": "Just Rolled In",
         "id": "UCjN72nQrWhDnppts-lNnlKQ"
+      }
+    },
+    {
+      "id": "_pFMlGNXVmk",
+      "title": "Killer American Akita has a love affair with the blow dryer",
+      "duration": 202,
+      "channel": {
+        "name": "Girl With The Dogs",
+        "id": "UCUFnGWHIQvybwmR7XDh7-9A"
       }
     }
   ]
