@@ -1,6 +1,6 @@
 {
   "totalSize": "6.7 GB",
-  "totalVideos": 388,
+  "totalVideos": 389,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3492,6 +3492,15 @@
       "channel": {
         "name": "PlayOverwatch",
         "id": "UClOf1XXinvZsy4wKPAkro2A"
+      }
+    },
+    {
+      "id": "04DIO9VeJOs",
+      "title": "Esther Abrami - Walking In The Air from \"The Snowman\"",
+      "duration": 218,
+      "channel": {
+        "name": "Esther Abrami",
+        "id": "UCOFrldzxeKGG8fTpN5_d75Q"
       }
     }
   ]
