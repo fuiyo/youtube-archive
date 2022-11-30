@@ -1,6 +1,6 @@
 {
   "totalSize": "6.7 GB",
-  "totalVideos": 389,
+  "totalVideos": 390,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3501,6 +3501,15 @@
       "channel": {
         "name": "Esther Abrami",
         "id": "UCOFrldzxeKGG8fTpN5_d75Q"
+      }
+    },
+    {
+      "id": "pji33MoJ5Z4",
+      "title": "[991] Removing Inventory Control Tags FAST!",
+      "duration": 103,
+      "channel": {
+        "name": "LockPickingLawyer",
+        "id": "UCm9K6rby98W8JigLoZOh6FQ"
       }
     }
   ]
