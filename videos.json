@@ -1,6 +1,6 @@
 {
   "totalSize": "7.2 GB",
-  "totalVideos": 419,
+  "totalVideos": 420,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3771,6 +3771,15 @@
       "channel": {
         "name": "Eem Triplin",
         "id": "UCvQu8T8s7w7E4H3decGlk5g"
+      }
+    },
+    {
+      "id": "yO-_MsCBMcU",
+      "title": "Canada vs. Morocco Highlights | 2022 FIFA World Cup",
+      "duration": 298,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
