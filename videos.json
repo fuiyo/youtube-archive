@@ -1,6 +1,6 @@
 {
-  "totalSize": "7.3 GB",
-  "totalVideos": 427,
+  "totalSize": "7.4 GB",
+  "totalVideos": 428,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3840,6 +3840,15 @@
       "id": "EPWrVyyd3U4",
       "title": "Japan vs. Spain Highlights | 2022 FIFA World Cup",
       "duration": 288,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "DtsKkNBz-R0",
+      "title": "Costa Rica vs. Germany Highlights | 2022 FIFA World Cup",
+      "duration": 298,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
