@@ -1,6 +1,6 @@
 {
   "totalSize": "7.2 GB",
-  "totalVideos": 412,
+  "totalVideos": 413,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3708,6 +3708,15 @@
       "channel": {
         "name": "The Office",
         "id": "UCa90xqK2odw1KV5wHU9WRhg"
+      }
+    },
+    {
+      "id": "CQJBdGtWHeY",
+      "title": "Giant Husky Meets Newborn Baby For The First Time!! (Cutest Ever!!)",
+      "duration": 230,
+      "channel": {
+        "name": "Life with Malamutes",
+        "id": "UCj9pk54KCzfvTs9gnMKJYSg"
       }
     }
   ]
