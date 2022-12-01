@@ -1,6 +1,6 @@
 {
   "totalSize": "7.2 GB",
-  "totalVideos": 413,
+  "totalVideos": 414,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3717,6 +3717,15 @@
       "channel": {
         "name": "Life with Malamutes",
         "id": "UCj9pk54KCzfvTs9gnMKJYSg"
+      }
+    },
+    {
+      "id": "8wjTt1Y3IFw",
+      "title": "Bozeman Bar Brawl | Yellowstone | Paramount Network",
+      "duration": 199,
+      "channel": {
+        "name": "Yellowstone",
+        "id": "UCoBSi6AOGXWb_NBIGNHP9Qw"
       }
     }
   ]
