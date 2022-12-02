@@ -1,6 +1,6 @@
 {
   "totalSize": "7.6 GB",
-  "totalVideos": 437,
+  "totalVideos": 438,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3933,6 +3933,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "sbHxvyK2Fsw",
+      "title": "Stars attend lavish U.S. state dinner for Macron",
+      "duration": 111,
+      "channel": {
+        "name": "Reuters",
+        "id": "UChqUTb7kYRX8-EiaN3XFrSQ"
       }
     }
   ]
