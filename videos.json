@@ -1,6 +1,6 @@
 {
   "totalSize": "7.4 GB",
-  "totalVideos": 432,
+  "totalVideos": 433,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -3888,6 +3888,15 @@
       "channel": {
         "name": "KLR Productions",
         "id": "UCZpvLeZDtm8mmmvwgBrNVyg"
+      }
+    },
+    {
+      "id": "gRdKurerqUM",
+      "title": "SINGULARITY - Seraphim feat. Tyler Ennis (Official Music Video)",
+      "duration": 247,
+      "channel": {
+        "name": "Jordan Radvansky",
+        "id": "UCt0fmCGL6HcBvpr1f3GBFbQ"
       }
     }
   ]
