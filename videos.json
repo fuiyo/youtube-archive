@@ -1,6 +1,6 @@
 {
   "totalSize": "7.9 GB",
-  "totalVideos": 449,
+  "totalVideos": 450,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4038,6 +4038,15 @@
       "id": "RcU7Jr-7oZM",
       "title": "Cameroon vs. Brazil Highlights | 2022 FIFA World Cup",
       "duration": 295,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "Kj62aNAcxck",
+      "title": "Serbia vs. Switzerland Highlights | 2022 FIFA World Cup",
+      "duration": 300,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
