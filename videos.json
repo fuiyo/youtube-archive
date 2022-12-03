@@ -1,6 +1,6 @@
 {
   "totalSize": "8.5 GB",
-  "totalVideos": 473,
+  "totalVideos": 474,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4257,6 +4257,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "fDMHtI1G6_4",
+      "title": "Argentina vs. Australia Highlights | 2022 FIFA World Cup",
+      "duration": 294,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
