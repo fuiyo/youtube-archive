@@ -1,6 +1,6 @@
 {
   "totalSize": "8.4 GB",
-  "totalVideos": 467,
+  "totalVideos": 468,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4203,6 +4203,15 @@
       "channel": {
         "name": "3 Minutes of Aviation",
         "id": "UCCB1oLQY3XM86ACD05Lq4HQ"
+      }
+    },
+    {
+      "id": "G_fpIeNop9A",
+      "title": "Musk’s Twitter files make Watergate look like ‘jaywalking’: Clay Travis",
+      "duration": 295,
+      "channel": {
+        "name": "Fox News",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA"
       }
     }
   ]
