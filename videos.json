@@ -1,6 +1,6 @@
 {
   "totalSize": "8.4 GB",
-  "totalVideos": 468,
+  "totalVideos": 469,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4212,6 +4212,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "7kH-EQbMprI",
+      "title": "Netherlands vs. United States Highlights | 2022 FIFA World Cup",
+      "duration": 300,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
