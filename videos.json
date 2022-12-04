@@ -1,6 +1,6 @@
 {
   "totalSize": "8.7 GB",
-  "totalVideos": 482,
+  "totalVideos": 484,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4335,6 +4335,24 @@
       "id": "8bmDiXPkG2w",
       "title": "Keke Palmer Monologue - SNL",
       "duration": 286,
+      "channel": {
+        "name": "Saturday Night Live",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "-XYT9MyAEFs",
+      "title": "Herschel Walker Cold Open - SNL",
+      "duration": 293,
+      "channel": {
+        "name": "Saturday Night Live",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "U1GGzidDny8",
+      "title": "Weekend Update: Thriller's 40th Anniversary, Police Bust Super Cartel - SNL",
+      "duration": 149,
       "channel": {
         "name": "Saturday Night Live",
         "id": "UCqFzWxSCi39LnW1JKFR3efg"
