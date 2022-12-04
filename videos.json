@@ -1,6 +1,6 @@
 {
   "totalSize": "8.7 GB",
-  "totalVideos": 484,
+  "totalVideos": 485,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4356,6 +4356,15 @@
       "channel": {
         "name": "Saturday Night Live",
         "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "XXYxZySYeFU",
+      "title": "Fortnite Chapter 4 Season 1 Launch Trailer",
+      "duration": 96,
+      "channel": {
+        "name": "Fortnite",
+        "id": "UClG8odDC8TS6Zpqk9CGVQiQ"
       }
     }
   ]
