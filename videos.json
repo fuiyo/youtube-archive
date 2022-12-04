@@ -1,6 +1,6 @@
 {
   "totalSize": "8.6 GB",
-  "totalVideos": 479,
+  "totalVideos": 480,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4311,6 +4311,15 @@
       "channel": {
         "name": "vlogbrothers",
         "id": "UCGaVdbSav8xWuFWTadK6loA"
+      }
+    },
+    {
+      "id": "AR2n2TsJuNE",
+      "title": "Character Teaser - \"Wanderer: Ashes\" | Genshin Impact",
+      "duration": 148,
+      "channel": {
+        "name": "Genshin Impact",
+        "id": "UCiS882YPwZt1NfaM0gR0D9Q"
       }
     }
   ]
