@@ -1,6 +1,6 @@
 {
   "totalSize": "8.6 GB",
-  "totalVideos": 476,
+  "totalVideos": 477,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4284,6 +4284,15 @@
       "channel": {
         "name": "IGN",
         "id": "UCKy1dAqELo0zrOtPkf0eTMw"
+      }
+    },
+    {
+      "id": "uLtkt8BonwM",
+      "title": "The Last of Us | Official Trailer | HBO Max",
+      "duration": 144,
+      "channel": {
+        "name": "HBO Max",
+        "id": "UCx-KWLTKlB83hDI6UKECtJQ"
       }
     }
   ]
