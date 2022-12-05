@@ -1,6 +1,6 @@
 {
   "totalSize": "8.9 GB",
-  "totalVideos": 495,
+  "totalVideos": 496,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4455,6 +4455,15 @@
       "channel": {
         "name": "Andrea Jean Cleaning",
         "id": "UC7GN8xgyyy1mmnCWem1eDmw"
+      }
+    },
+    {
+      "id": "HlsQOMCPRCM",
+      "title": "\"An 8-hour commute home\": Drivers trapped, cars abandoned amid Metro Vancouver snowstorm",
+      "duration": 136,
+      "channel": {
+        "name": "Global News",
+        "id": "UChLtXXpo4Ge1ReTEboVvTDg"
       }
     }
   ]
