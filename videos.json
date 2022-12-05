@@ -1,6 +1,6 @@
 {
-  "totalSize": "9.2 GB",
-  "totalVideos": 519,
+  "totalSize": "9.3 GB",
+  "totalVideos": 522,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4671,6 +4671,33 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "pL7hOU8cYkI",
+      "title": "Brazil vs. South Korea Highlights | 2022 FIFA World Cup",
+      "duration": 295,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "kpxgdmfRvRM",
+      "title": "Supreme Court weighs case pitting free speech against LGBTQ+ rights",
+      "duration": 294,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "NLI9N2y_RCM",
+      "title": "Box truck tumbles off interchange and onto cars near Santa Clarita",
+      "duration": 182,
+      "channel": {
+        "name": "KTLA 5",
+        "id": "UCinjnmQEwCddOudyCC1v7qA"
       }
     }
   ]
