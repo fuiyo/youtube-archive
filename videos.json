@@ -1,6 +1,6 @@
 {
   "totalSize": "9.4 GB",
-  "totalVideos": 530,
+  "totalVideos": 531,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4770,6 +4770,15 @@
       "channel": {
         "name": "Bill O'Reilly",
         "id": "UC4OvD2yIbofl9l4dIlqSNMw"
+      }
+    },
+    {
+      "id": "S0KCmVeoI9I",
+      "title": "Georgia Senate runoff to be decided today",
+      "duration": 123,
+      "channel": {
+        "name": "News4JAX",
+        "id": "UC_YFbvKedjnVjqrZqBR4L8Q"
       }
     }
   ]
