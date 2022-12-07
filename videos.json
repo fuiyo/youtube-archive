@@ -1,6 +1,6 @@
 {
   "totalSize": "9.7 GB",
-  "totalVideos": 541,
+  "totalVideos": 542,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4869,6 +4869,15 @@
       "channel": {
         "name": "Kiun B",
         "id": "UCewnpz5mc4Sjx4esAs54O0w"
+      }
+    },
+    {
+      "id": "nqsdnY2e-xE",
+      "title": "Tech devices for the creatives",
+      "duration": 189,
+      "channel": {
+        "name": "WSFL",
+        "id": "UCFVM8zEvn7tSHU2JenYaq1Q"
       }
     }
   ]
