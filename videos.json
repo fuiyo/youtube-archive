@@ -1,6 +1,6 @@
 {
   "totalSize": "9.7 GB",
-  "totalVideos": 546,
+  "totalVideos": 547,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4914,6 +4914,15 @@
       "channel": {
         "name": "DW News",
         "id": "UCknLrEdhRCp1aegoMqRaCZg"
+      }
+    },
+    {
+      "id": "gZOIWx9lhUM",
+      "title": "SZA - Blind (Live at SNL)",
+      "duration": 162,
+      "channel": {
+        "name": "SZA",
+        "id": "UCO5IQ70V7l-XpHW40HwaGsw"
       }
     }
   ]
