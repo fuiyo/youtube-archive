@@ -1,6 +1,6 @@
 {
   "totalSize": "9.7 GB",
-  "totalVideos": 547,
+  "totalVideos": 548,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4923,6 +4923,15 @@
       "channel": {
         "name": "SZA",
         "id": "UCO5IQ70V7l-XpHW40HwaGsw"
+      }
+    },
+    {
+      "id": "ddbL9jvg77w",
+      "title": "The Pale Blue Eye | Official Trailer | Netflix",
+      "duration": 143,
+      "channel": {
+        "name": "Netflix",
+        "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
       }
     }
   ]
