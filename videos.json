@@ -1,6 +1,6 @@
 {
   "totalSize": "9.8 GB",
-  "totalVideos": 551,
+  "totalVideos": 552,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4959,6 +4959,15 @@
       "channel": {
         "name": "Elise Ecklund",
         "id": "UCUsCq3Hq5haa6tTph41hpJQ"
+      }
+    },
+    {
+      "id": "Lof6FTHepNU",
+      "title": "Amy Coney Barrett Asks Biden Lawyer If Gay Web Designers Could Turn Down A Christian Organization",
+      "duration": 153,
+      "channel": {
+        "name": "Forbes Breaking News",
+        "id": "UCg40OxZ1GYh3u3jBntB6DLg"
       }
     }
   ]
