@@ -1,6 +1,6 @@
 {
   "totalSize": "9.7 GB",
-  "totalVideos": 548,
+  "totalVideos": 549,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -4932,6 +4932,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "R15uYFpeBG0",
+      "title": "Star Wars: The Bad Batch Season 2 | Official Trailer | Disney+",
+      "duration": 124,
+      "channel": {
+        "name": "Star Wars",
+        "id": "UCZGYJFUizSax-yElQaFDp5Q"
       }
     }
   ]
