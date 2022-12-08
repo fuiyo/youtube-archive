@@ -1,6 +1,6 @@
 {
   "totalSize": "10.0 GB",
-  "totalVideos": 568,
+  "totalVideos": 569,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5112,6 +5112,15 @@
       "channel": {
         "name": "KCRA News",
         "id": "UC-BSVXejMFhhml4V_VyoGxg"
+      }
+    },
+    {
+      "id": "isGNQILKM0A",
+      "title": "Why did Haiti and the Dominican Republic Break Up? (Short Animated Documentary)",
+      "duration": 204,
+      "channel": {
+        "name": "History Matters",
+        "id": "UC22BdTgxefuvUivrjesETjg"
       }
     }
   ]
