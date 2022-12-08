@@ -1,6 +1,6 @@
 {
   "totalSize": "9.9 GB",
-  "totalVideos": 566,
+  "totalVideos": 567,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5094,6 +5094,15 @@
       "channel": {
         "name": "ONE Media",
         "id": "UCzcRQ3vRNr6fJ1A9rqFn7QA"
+      }
+    },
+    {
+      "id": "YSFa_wOZPXg",
+      "title": "Paramore - The News (Official Video)",
+      "duration": 188,
+      "channel": {
+        "name": "Paramore",
+        "id": "UCc7_woMAIVIW2mAr1rPCsFQ"
       }
     }
   ]
