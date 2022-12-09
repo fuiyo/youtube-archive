@@ -1,6 +1,6 @@
 {
   "totalSize": "10.2 GB",
-  "totalVideos": 584,
+  "totalVideos": 585,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5256,6 +5256,15 @@
       "channel": {
         "name": "Illumination",
         "id": "UCq7OHvWO6Z3u-LztFdrcU-g"
+      }
+    },
+    {
+      "id": "kILo-G16DbE",
+      "title": "Sen. Kyrsten Sinema leaving the Democratic Party",
+      "duration": 81,
+      "channel": {
+        "name": "Fox Business",
+        "id": "UCCXoCcu9Rp7NPbTzIvogpZg"
       }
     }
   ]
