@@ -1,6 +1,6 @@
 {
   "totalSize": "10.2 GB",
-  "totalVideos": 580,
+  "totalVideos": 581,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5220,6 +5220,15 @@
       "channel": {
         "name": "Just Rolled In",
         "id": "UCjN72nQrWhDnppts-lNnlKQ"
+      }
+    },
+    {
+      "id": "fPkKgE9M2k4",
+      "title": "Why Eminem's Daughter Hailie Jade Was SHOCKED During Dad's Hall of Fame Speech",
+      "duration": 273,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
       }
     }
   ]
