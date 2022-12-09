@@ -1,6 +1,6 @@
 {
   "totalSize": "10.1 GB",
-  "totalVideos": 573,
+  "totalVideos": 574,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5157,6 +5157,15 @@
       "channel": {
         "name": "WBAL-TV 11 Baltimore",
         "id": "UCpmb83_U37eDBlgEezsxK7w"
+      }
+    },
+    {
+      "id": "VRaobDJjiec",
+      "title": "Star Wars Jedi: Survivor - Official Reveal Trailer",
+      "duration": 129,
+      "channel": {
+        "name": "EA Star Wars",
+        "id": "UCOsVSkmXD1tc6uiJ2hc0wYQ"
       }
     }
   ]
