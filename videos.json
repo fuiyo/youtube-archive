@@ -1,6 +1,6 @@
 {
   "totalSize": "10.3 GB",
-  "totalVideos": 589,
+  "totalVideos": 590,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5301,6 +5301,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "h95jtCArSyA",
+      "title": "United Airlines First Air Taxi Revealed: Archer Midnight eVTOL",
+      "duration": 236,
+      "channel": {
+        "name": "CNET",
+        "id": "UCOmcA3f_RrH6b9NmcNa4tdg"
       }
     }
   ]
