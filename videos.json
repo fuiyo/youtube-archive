@@ -1,6 +1,6 @@
 {
   "totalSize": "10.3 GB",
-  "totalVideos": 587,
+  "totalVideos": 588,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5283,6 +5283,15 @@
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "NNd_ufPG3x4",
+      "title": "SZA - Nobody Gets Me (Official Video)",
+      "duration": 183,
+      "channel": {
+        "name": "SZA",
+        "id": "UCO5IQ70V7l-XpHW40HwaGsw"
       }
     }
   ]
