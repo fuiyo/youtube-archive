@@ -1,6 +1,6 @@
 {
-  "totalSize": "10.2 GB",
-  "totalVideos": 586,
+  "totalSize": "10.3 GB",
+  "totalVideos": 587,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5274,6 +5274,15 @@
       "channel": {
         "name": "Netflix",
         "id": "UCWOA1ZGywLbqmigxE4Qlvuw"
+      }
+    },
+    {
+      "id": "V5wEQK9IYL8",
+      "title": "Croatia vs. Brazil Highlights | 2022 FIFA World Cup | Quarterfinals",
+      "duration": 297,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
