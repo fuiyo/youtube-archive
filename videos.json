@@ -1,6 +1,6 @@
 {
   "totalSize": "10.1 GB",
-  "totalVideos": 574,
+  "totalVideos": 575,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5166,6 +5166,15 @@
       "channel": {
         "name": "EA Star Wars",
         "id": "UCOsVSkmXD1tc6uiJ2hc0wYQ"
+      }
+    },
+    {
+      "id": "Fj_HE8Ysuyk",
+      "title": "Star Wars Jedi: Survivor - Reveal Trailer | The Game Awards 2022",
+      "duration": 151,
+      "channel": {
+        "name": "IGN",
+        "id": "UCKy1dAqELo0zrOtPkf0eTMw"
       }
     }
   ]
