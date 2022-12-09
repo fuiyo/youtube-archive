@@ -1,6 +1,6 @@
 {
   "totalSize": "10.3 GB",
-  "totalVideos": 588,
+  "totalVideos": 589,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5292,6 +5292,15 @@
       "channel": {
         "name": "SZA",
         "id": "UCO5IQ70V7l-XpHW40HwaGsw"
+      }
+    },
+    {
+      "id": "449blfnmd2A",
+      "title": "Netherlands vs. Argentina Highlights | 2022 FIFA World Cup | Quarterfinals",
+      "duration": 299,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
