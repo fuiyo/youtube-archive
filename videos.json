@@ -1,6 +1,6 @@
 {
   "totalSize": "10.5 GB",
-  "totalVideos": 599,
+  "totalVideos": 600,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5391,6 +5391,15 @@
       "channel": {
         "name": "Universal Pictures",
         "id": "UCq0OueAsdxH6b8nyAspwViw"
+      }
+    },
+    {
+      "id": "KwlBLxeKj2k",
+      "title": "Brittney Griner's release raises new concerns over \"hostage diplomacy\"",
+      "duration": 154,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
