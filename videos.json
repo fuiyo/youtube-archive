@@ -1,6 +1,6 @@
 {
   "totalSize": "10.4 GB",
-  "totalVideos": 596,
+  "totalVideos": 597,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5361,6 +5361,15 @@
       "id": "op4mGRTAlEY",
       "title": "Morocco vs. Portugal Highlights | 2022 FIFA World Cup | Quarterfinals",
       "duration": 300,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "KoiXYX7tui4",
+      "title": "Argentina's EPIC penalty shootout with the Netherlands | Every Angle",
+      "duration": 237,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
