@@ -1,6 +1,6 @@
 {
   "totalSize": "10.8 GB",
-  "totalVideos": 616,
+  "totalVideos": 617,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5544,6 +5544,15 @@
       "channel": {
         "name": "Crunchyroll Collection",
         "id": "UC6pGDc4bFGD1_36IKv3FnYg"
+      }
+    },
+    {
+      "id": "kKO1s-CUZvY",
+      "title": "ARMORED CORE VI FIRES OF RUBICON – Reveal Trailer",
+      "duration": 168,
+      "channel": {
+        "name": "BANDAI NAMCO Europe",
+        "id": "UCETrNUjuH4EoRdZNFx9EI-A"
       }
     }
   ]
