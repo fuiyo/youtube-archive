@@ -1,6 +1,6 @@
 {
-  "totalSize": "10.7 GB",
-  "totalVideos": 615,
+  "totalSize": "10.8 GB",
+  "totalVideos": 616,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5535,6 +5535,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "SWAMTXfqer0",
+      "title": "Demon Slayer: Kimetsu no Yaiba Promotion Reel 2023",
+      "duration": 176,
+      "channel": {
+        "name": "Crunchyroll Collection",
+        "id": "UC6pGDc4bFGD1_36IKv3FnYg"
       }
     }
   ]
