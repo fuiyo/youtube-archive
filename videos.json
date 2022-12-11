@@ -1,6 +1,6 @@
 {
   "totalSize": "10.5 GB",
-  "totalVideos": 603,
+  "totalVideos": 604,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5427,6 +5427,15 @@
       "channel": {
         "name": "Trombone Timo",
         "id": "UCLAHZm6uYqnajkpWMs6-yAg"
+      }
+    },
+    {
+      "id": "9EmLbOJZULU",
+      "title": "The Subtle Art of Not Giving a F*ck | Official Trailer",
+      "duration": 105,
+      "channel": {
+        "name": "Mark Manson",
+        "id": "UC0TnW9acNxqeojxXDMbohcA"
       }
     }
   ]
