@@ -1,6 +1,6 @@
 {
   "totalSize": "10.9 GB",
-  "totalVideos": 628,
+  "totalVideos": 629,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5652,6 +5652,15 @@
       "channel": {
         "name": "Saturday Night Live",
         "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "4a1lNWaP-GQ",
+      "title": "Karen Bass plans to declare state of emergency on homelessness in first day as Mayor",
+      "duration": 179,
+      "channel": {
+        "name": "CBS Los Angeles",
+        "id": "UCkH1uDkyuO9sVjSqdqBygOg"
       }
     }
   ]
