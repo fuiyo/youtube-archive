@@ -1,6 +1,6 @@
 {
   "totalSize": "10.9 GB",
-  "totalVideos": 624,
+  "totalVideos": 625,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5616,6 +5616,15 @@
       "channel": {
         "name": "Project Better Self",
         "id": "UCugmVpDxOg-nmyLDdHcu04A"
+      }
+    },
+    {
+      "id": "X2tJ7GnHLXk",
+      "title": "Power Rangers' Amy Jo Johnson Honors Late Jason David Frank | E! News",
+      "duration": 120,
+      "channel": {
+        "name": "E! News",
+        "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
       }
     }
   ]
