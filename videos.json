@@ -1,6 +1,6 @@
 {
   "totalSize": "10.9 GB",
-  "totalVideos": 625,
+  "totalVideos": 627,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5625,6 +5625,24 @@
       "channel": {
         "name": "E! News",
         "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
+      }
+    },
+    {
+      "id": "A8Nv-ovsWXA",
+      "title": "California Fast Food Worker To Lose Eye After Customer Attack",
+      "duration": 131,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "q5FcGYSG_6Y",
+      "title": "Among Us: Hide n' Seek Trailer | The Game Awards 2022",
+      "duration": 86,
+      "channel": {
+        "name": "IGN",
+        "id": "UCKy1dAqELo0zrOtPkf0eTMw"
       }
     }
   ]
