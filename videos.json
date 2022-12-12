@@ -1,6 +1,6 @@
 {
   "totalSize": "10.9 GB",
-  "totalVideos": 623,
+  "totalVideos": 624,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5607,6 +5607,15 @@
       "channel": {
         "name": "Lana Del Rey",
         "id": "UCqk3CdGN_j8IR9z4uBbVPSg"
+      }
+    },
+    {
+      "id": "7fnVcXfPe5c",
+      "title": "HOW TO BE SOCIAL - HOW TO NEVER RUN OUT OF THINGS TO SAY",
+      "duration": 276,
+      "channel": {
+        "name": "Project Better Self",
+        "id": "UCugmVpDxOg-nmyLDdHcu04A"
       }
     }
   ]
