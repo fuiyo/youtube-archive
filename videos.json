@@ -1,6 +1,6 @@
 {
   "totalSize": "11.1 GB",
-  "totalVideos": 637,
+  "totalVideos": 639,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5733,6 +5733,24 @@
       "channel": {
         "name": "CaptainSparklez",
         "id": "UCshoKvlZGZ20rVgazZp5vnQ"
+      }
+    },
+    {
+      "id": "Ro26B394ZBM",
+      "title": "Diablo 4 Official Cinematic Release Date Trailer",
+      "duration": 180,
+      "channel": {
+        "name": "GameSpot",
+        "id": "UCbu2SsF-Or3Rsn3NxqODImw"
+      }
+    },
+    {
+      "id": "BYRWz1Ivt5Y",
+      "title": "Country bracing for powerful back-to-back winter storms this weekend | WNT",
+      "duration": 203,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
