@@ -1,6 +1,6 @@
 {
-  "totalSize": "11.4 GB",
-  "totalVideos": 659,
+  "totalSize": "11.5 GB",
+  "totalVideos": 660,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5928,6 +5928,15 @@
       "id": "2hYVOk_Bi0Y",
       "title": "Lionel Messi reflects on Argentina’s win vs. Croatia & his emotions heading into the World Cup final",
       "duration": 118,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "Rme5ehScZVo",
+      "title": "Lionel Messi and Argentina celebrate after advancing to 2022 World Cup Final",
+      "duration": 239,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
