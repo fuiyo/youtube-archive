@@ -1,6 +1,6 @@
 {
   "totalSize": "11.4 GB",
-  "totalVideos": 658,
+  "totalVideos": 659,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5919,6 +5919,15 @@
       "id": "k2xz9J1OqN0",
       "title": "Argentina vs. Croatia Highlights | 2022 FIFA World Cup | Semifinals",
       "duration": 299,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "2hYVOk_Bi0Y",
+      "title": "Lionel Messi reflects on Argentina’s win vs. Croatia & his emotions heading into the World Cup final",
+      "duration": 118,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
