@@ -1,6 +1,6 @@
 {
   "totalSize": "11.2 GB",
-  "totalVideos": 650,
+  "totalVideos": 651,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5850,6 +5850,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "xjy_SIas1WA",
+      "title": "Natalie Jane - AVA (Lyric Video)",
+      "duration": 160,
+      "channel": {
+        "name": "Natalie Jane",
+        "id": "UC1KXRRPLJg5Abs44UlGYv2A"
       }
     }
   ]
