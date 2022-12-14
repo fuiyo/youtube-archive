@@ -1,6 +1,6 @@
 {
   "totalSize": "11.6 GB",
-  "totalVideos": 665,
+  "totalVideos": 666,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -5985,6 +5985,15 @@
       "channel": {
         "name": "thewonderyearsband",
         "id": "UC4rU2VsGfkQYVWifao8Es8g"
+      }
+    },
+    {
+      "id": "iTgcp1oDk2M",
+      "title": "Red Velvet X aespa 'Beautiful Christmas' MV",
+      "duration": 219,
+      "channel": {
+        "name": "SMTOWN",
+        "id": "UCEf_Bc-KVd7onSeifS3py9g"
       }
     }
   ]
