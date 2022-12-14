@@ -1,6 +1,6 @@
 {
   "totalSize": "11.7 GB",
-  "totalVideos": 669,
+  "totalVideos": 670,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6021,6 +6021,15 @@
       "channel": {
         "name": "VeeFergie",
         "id": "UCQjU_AJg5uSEDJdPAYs8RXw"
+      }
+    },
+    {
+      "id": "aZ0wo2_1iVg",
+      "title": "France vs. Morocco Highlights | 2022 FIFA World Cup | Semifinals",
+      "duration": 300,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
       }
     }
   ]
