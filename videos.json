@@ -1,6 +1,6 @@
 {
   "totalSize": "11.8 GB",
-  "totalVideos": 674,
+  "totalVideos": 675,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6066,6 +6066,15 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "Dll6VJ2C7wo",
+      "title": "RAYE, 070 Shake - Escapism. (Official Music Video)",
+      "duration": 274,
+      "channel": {
+        "name": "RAYE",
+        "id": "UCw5z_dopYnvEL6Rc8KNKsnw"
       }
     }
   ]
