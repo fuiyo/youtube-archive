@@ -1,6 +1,6 @@
 {
   "totalSize": "12.0 GB",
-  "totalVideos": 683,
+  "totalVideos": 685,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6147,6 +6147,24 @@
       "channel": {
         "name": "KENS 5: Your San Antonio News Source",
         "id": "UCVnjt9mMx46gMUeTtONXimQ"
+      }
+    },
+    {
+      "id": "d67cLclMZVI",
+      "title": "Stephen ‘tWitch’ Boss' Cause of Death Confirmed",
+      "duration": 153,
+      "channel": {
+        "name": "Entertainment Tonight",
+        "id": "UCdtXPiqI2cLorKaPrfpKc4g"
+      }
+    },
+    {
+      "id": "iWyMcy4_alQ",
+      "title": "For Spanish, Press \"2\" | Gabriel Iglesias",
+      "duration": 260,
+      "channel": {
+        "name": "Gabriel Iglesias",
+        "id": "UCUxc0iEpV8wZV4WLOui0RwQ"
       }
     }
   ]
