@@ -1,6 +1,6 @@
 {
-  "totalSize": "12.3 GB",
-  "totalVideos": 701,
+  "totalSize": "12.4 GB",
+  "totalVideos": 702,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6309,6 +6309,15 @@
       "channel": {
         "name": "Entertainment Tonight",
         "id": "UCdtXPiqI2cLorKaPrfpKc4g"
+      }
+    },
+    {
+      "id": "jBJauwM-Rk4",
+      "title": "Stephen ‘tWitch’ Boss Dead at 40 — New Details on His Shocking Suicide",
+      "duration": 215,
+      "channel": {
+        "name": "extratv",
+        "id": "UCVr-TwiGNnveWyOouIyz2fQ"
       }
     }
   ]
