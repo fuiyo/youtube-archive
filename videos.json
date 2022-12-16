@@ -1,6 +1,6 @@
 {
   "totalSize": "12.0 GB",
-  "totalVideos": 680,
+  "totalVideos": 683,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6120,6 +6120,33 @@
       "channel": {
         "name": "Daily Dose Of Internet",
         "id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+      }
+    },
+    {
+      "id": "YzKOoYt80aM",
+      "title": "Hawley Floor Speech on Senate Passage of Bill Banning TikTok From Government Devices",
+      "duration": 268,
+      "channel": {
+        "name": "Senator Josh Hawley",
+        "id": "UCMzt8xq6qQ3XQ_DlNfJx0-w"
+      }
+    },
+    {
+      "id": "RyG2Q_EpRjo",
+      "title": "Koe Wetzel — Oklahoma Sun (Live from Sonic Ranch - 360 Video)",
+      "duration": 251,
+      "channel": {
+        "name": "Koe Wetzel",
+        "id": "UC3z-jLV-EGKmBPTZ9hKZGBQ"
+      }
+    },
+    {
+      "id": "pQ2Y1Ai6xNg",
+      "title": "Massive influx of migrants overwhelming one border town",
+      "duration": 120,
+      "channel": {
+        "name": "KENS 5: Your San Antonio News Source",
+        "id": "UCVnjt9mMx46gMUeTtONXimQ"
       }
     }
   ]
