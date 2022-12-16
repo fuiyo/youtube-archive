@@ -1,6 +1,6 @@
 {
   "totalSize": "12.1 GB",
-  "totalVideos": 689,
+  "totalVideos": 690,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6201,6 +6201,15 @@
       "channel": {
         "name": "BBC Studios",
         "id": "UC2ccm1GajfSujz7T18d7cKA"
+      }
+    },
+    {
+      "id": "4S221YNb3w0",
+      "title": "Kennedy NDAA statement",
+      "duration": 196,
+      "channel": {
+        "name": "Senator John Kennedy",
+        "id": "UCDgjkA5Y_npoxeUiSW18JZQ"
       }
     }
   ]
