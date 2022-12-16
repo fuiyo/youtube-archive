@@ -1,6 +1,6 @@
 {
   "totalSize": "12.1 GB",
-  "totalVideos": 687,
+  "totalVideos": 688,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6183,6 +6183,15 @@
       "channel": {
         "name": "Bjorn Lynne",
         "id": "UCprzr7HQRibJbMl_gAHQHNw"
+      }
+    },
+    {
+      "id": "nWiQodhMvz4",
+      "title": "The Whale | Official Trailer HD | A24",
+      "duration": 111,
+      "channel": {
+        "name": "A24",
+        "id": "UCuPivVjnfNo4mb3Oog_frZg"
       }
     }
   ]
