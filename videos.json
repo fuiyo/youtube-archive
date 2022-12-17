@@ -1,6 +1,6 @@
 {
   "totalSize": "12.4 GB",
-  "totalVideos": 713,
+  "totalVideos": 714,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6417,6 +6417,15 @@
       "channel": {
         "name": "Brian Sutterer MD",
         "id": "UCHlBaw2X5iYQGJhd5v718Zw"
+      }
+    },
+    {
+      "id": "11tjsPZYZ6Q",
+      "title": "GRAZING IN THE GRASS Hugh Masekela Guitar & Bass Cover LINK TO YouTube LESSON! FUNKY FRIDAY!",
+      "duration": 106,
+      "channel": {
+        "name": "EricBlackmonGuitar",
+        "id": "UCxJIvIDPNrt6zYWtCgaVUUw"
       }
     }
   ]
