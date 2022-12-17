@@ -1,6 +1,6 @@
 {
   "totalSize": "12.4 GB",
-  "totalVideos": 705,
+  "totalVideos": 706,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6345,6 +6345,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "zuIjUSXnBKs",
+      "title": "Stephen \"tWitch\" Boss' Mom Speaks Out After His Death | E! News",
+      "duration": 103,
+      "channel": {
+        "name": "E! News",
+        "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
       }
     }
   ]
