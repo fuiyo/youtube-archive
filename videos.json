@@ -1,6 +1,6 @@
 {
   "totalSize": "12.5 GB",
-  "totalVideos": 715,
+  "totalVideos": 716,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6435,6 +6435,15 @@
       "channel": {
         "name": "3 Minutes of Aviation",
         "id": "UCCB1oLQY3XM86ACD05Lq4HQ"
+      }
+    },
+    {
+      "id": "9Jmq9pj1x7k",
+      "title": "California to end mandatory pay for workers with COVID",
+      "duration": 188,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
