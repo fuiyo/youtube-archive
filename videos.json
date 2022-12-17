@@ -1,6 +1,6 @@
 {
   "totalSize": "12.4 GB",
-  "totalVideos": 704,
+  "totalVideos": 705,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6336,6 +6336,15 @@
       "channel": {
         "name": "The Official Pokémon YouTube channel",
         "id": "UCFctpiB_Hnlk3ejWfHqSm6Q"
+      }
+    },
+    {
+      "id": "ZP1ahZGKPNU",
+      "title": "China's \"explosion\" of COVID cases started before government eased restrictions, WHO says",
+      "duration": 147,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
