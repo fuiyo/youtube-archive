@@ -1,6 +1,6 @@
 {
   "totalSize": "12.6 GB",
-  "totalVideos": 723,
+  "totalVideos": 724,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6507,6 +6507,15 @@
       "channel": {
         "name": "Saturday Night Live",
         "id": "UCqFzWxSCi39LnW1JKFR3efg"
+      }
+    },
+    {
+      "id": "fM1sV6z4SAk",
+      "title": "Barbie - Official Teaser Trailer Starring Margot Robbie & Ryan Gosling",
+      "duration": 81,
+      "channel": {
+        "name": "E! News",
+        "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
       }
     }
   ]
