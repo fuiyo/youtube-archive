@@ -1,6 +1,6 @@
 {
   "totalSize": "12.7 GB",
-  "totalVideos": 729,
+  "totalVideos": 730,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6558,6 +6558,15 @@
       "id": "TiGYXqMM7OQ",
       "title": "Lionel Messi scores to give Argentina a 3-2 lead over France in the 2022 FIFA World Cup final",
       "duration": 128,
+      "channel": {
+        "name": "FOX Soccer",
+        "id": "UCooTLkxcpnTNx6vfOovfBFA"
+      }
+    },
+    {
+      "id": "wYbdJtRTc-8",
+      "title": "Kylian Mbappé scores back-to-back goals for France to tie the 2022 FIFA World Cup final | FOX Soccer",
+      "duration": 67,
       "channel": {
         "name": "FOX Soccer",
         "id": "UCooTLkxcpnTNx6vfOovfBFA"
