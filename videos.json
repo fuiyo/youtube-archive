@@ -1,6 +1,6 @@
 {
   "totalSize": "12.5 GB",
-  "totalVideos": 720,
+  "totalVideos": 721,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6480,6 +6480,15 @@
       "channel": {
         "name": "The Weeknd",
         "id": "UC0WP5P-ufpRfjbNrmOWwLBQ"
+      }
+    },
+    {
+      "id": "ZU_GdP1zPgA",
+      "title": "Museum of Wonky English | Duolingo",
+      "duration": 97,
+      "channel": {
+        "name": "Duolingo",
+        "id": "UCG98ruDeyp55THxbpBCIv3g"
       }
     }
   ]
