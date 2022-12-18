@@ -1,6 +1,6 @@
 {
   "totalSize": "12.5 GB",
-  "totalVideos": 719,
+  "totalVideos": 720,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6471,6 +6471,15 @@
       "channel": {
         "name": "Beast Philanthropy",
         "id": "UCAiLfjNXkNv24uhpzUgPa6A"
+      }
+    },
+    {
+      "id": "bDHD1ueL4a4",
+      "title": "The Weeknd - Nothing Is Lost (You Give Me Strength) (Official Lyric Video)",
+      "duration": 264,
+      "channel": {
+        "name": "The Weeknd",
+        "id": "UC0WP5P-ufpRfjbNrmOWwLBQ"
       }
     }
   ]
