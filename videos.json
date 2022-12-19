@@ -1,6 +1,6 @@
 {
   "totalSize": "12.7 GB",
-  "totalVideos": 737,
+  "totalVideos": 738,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6633,6 +6633,15 @@
       "channel": {
         "name": "ONE Media",
         "id": "UCzcRQ3vRNr6fJ1A9rqFn7QA"
+      }
+    },
+    {
+      "id": "vnJCSsKzib4",
+      "title": "Utah's Argentine community celebrates country's first World Cup title since 1986",
+      "duration": 150,
+      "channel": {
+        "name": "FOX 13 News Utah",
+        "id": "UCxjC_VVez3w8Uyh7LWPnkXA"
       }
     }
   ]
