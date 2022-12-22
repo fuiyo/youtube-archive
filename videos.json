@@ -1,6 +1,6 @@
 {
   "totalSize": "13.1 GB",
-  "totalVideos": 764,
+  "totalVideos": 765,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6876,6 +6876,15 @@
       "channel": {
         "name": "CNN",
         "id": "UCupvZG-5ko_eiXAupbDfxWw"
+      }
+    },
+    {
+      "id": "5DSZDHzDp9A",
+      "title": "3.3 magnitude earthquake hits near Union City",
+      "duration": 86,
+      "channel": {
+        "name": "KPIX CBS SF Bay Area",
+        "id": "UCF4LEacx9sDvAbEJnlaJfKQ"
       }
     }
   ]
