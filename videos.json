@@ -1,6 +1,6 @@
 {
-  "totalSize": "13.2 GB",
-  "totalVideos": 773,
+  "totalSize": "13.3 GB",
+  "totalVideos": 774,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -6957,6 +6957,15 @@
       "channel": {
         "name": "Channel 5 with Andrew Callaghan",
         "id": "UC-AQKm7HUNMmxjdS371MSwg"
+      }
+    },
+    {
+      "id": "JNtZJLt7FVk",
+      "title": "State Of Emergency Declared At Texas Border",
+      "duration": 153,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
