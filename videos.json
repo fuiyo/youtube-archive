@@ -1,6 +1,6 @@
 {
   "totalSize": "13.4 GB",
-  "totalVideos": 787,
+  "totalVideos": 788,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7083,6 +7083,15 @@
       "channel": {
         "name": "FOX Weather",
         "id": "UC1FbPiXx59_ltnFVx7IxWow"
+      }
+    },
+    {
+      "id": "cXuOFn-QimQ",
+      "title": "I-84 closed from Troutdale to Hood River due to severe weather",
+      "duration": 155,
+      "channel": {
+        "name": "KOIN 6",
+        "id": "UCXN7rPhZK6Rp8lMhvpSri_Q"
       }
     }
   ]
