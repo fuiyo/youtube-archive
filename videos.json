@@ -1,6 +1,6 @@
 {
   "totalSize": "13.5 GB",
-  "totalVideos": 794,
+  "totalVideos": 796,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7146,6 +7146,24 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "54KpGYiPYj8",
+      "title": "6.4 Magnitude Earthquake Strikes Northern California",
+      "duration": 157,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "msY5q4U46os",
+      "title": "Temperatures plunge below zero overnight Friday; Alert Days for Friday, Saturday | WTOL 11 Weather",
+      "duration": 236,
+      "channel": {
+        "name": "WTOL11",
+        "id": "UCrLGxsBRktzKo-KNWC-nfEw"
       }
     }
   ]
