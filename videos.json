@@ -1,6 +1,6 @@
 {
   "totalSize": "13.8 GB",
-  "totalVideos": 816,
+  "totalVideos": 817,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7344,6 +7344,15 @@
       "channel": {
         "name": "Peacock",
         "id": "UCPgMAS8woHJ_o_OZdTR7kcQ"
+      }
+    },
+    {
+      "id": "hbe1CoNnUQg",
+      "title": "Freezing temperatures causing major power outages | GMA",
+      "duration": 201,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
       }
     }
   ]
