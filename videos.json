@@ -1,6 +1,6 @@
 {
   "totalSize": "14.1 GB",
-  "totalVideos": 837,
+  "totalVideos": 838,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7533,6 +7533,15 @@
       "channel": {
         "name": "Wesley Ferreira",
         "id": "UCvfuipqOJTRKes7fiM6uomA"
+      }
+    },
+    {
+      "id": "ocVeqUeN1x4",
+      "title": "Arizona Man Sues American Airlines After 17 Days In Jail Over Wrongful Arrest",
+      "duration": 218,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
