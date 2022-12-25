@@ -1,6 +1,6 @@
 {
-  "totalSize": "13.9 GB",
-  "totalVideos": 826,
+  "totalSize": "14.0 GB",
+  "totalVideos": 827,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7434,6 +7434,15 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "xD-IQaxHcE4",
+      "title": "When you accidentally write songs that already exist",
+      "duration": 265,
+      "channel": {
+        "name": "Daniel Thrasher",
+        "id": "UCnZx--LpG2spgmlxOcC-DRA"
       }
     }
   ]
