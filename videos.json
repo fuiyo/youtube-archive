@@ -1,6 +1,6 @@
 {
   "totalSize": "14.1 GB",
-  "totalVideos": 836,
+  "totalVideos": 837,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7524,6 +7524,15 @@
       "channel": {
         "name": "YoungBoy Never Broke Again",
         "id": "UClW4jraMKz6Qj69lJf-tODA"
+      }
+    },
+    {
+      "id": "qr7O7nxrYjE",
+      "title": "I wish travelling was easy",
+      "duration": 209,
+      "channel": {
+        "name": "Wesley Ferreira",
+        "id": "UCvfuipqOJTRKes7fiM6uomA"
       }
     }
   ]
