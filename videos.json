@@ -1,6 +1,6 @@
 {
   "totalSize": "14.2 GB",
-  "totalVideos": 843,
+  "totalVideos": 844,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7587,6 +7587,15 @@
       "channel": {
         "name": "ESPN",
         "id": "UCiWLfSweyRNmLpgEHekhoAg"
+      }
+    },
+    {
+      "id": "zcFjqGWQyNM",
+      "title": "Brutal winter weather conditions force millions of Americans to delay, cancel holiday travel plans",
+      "duration": 189,
+      "channel": {
+        "name": "CBS News",
+        "id": "UC8p1vwvWtl6T73JiExfWs1g"
       }
     }
   ]
