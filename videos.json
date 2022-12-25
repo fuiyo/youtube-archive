@@ -1,6 +1,6 @@
 {
   "totalSize": "14.0 GB",
-  "totalVideos": 831,
+  "totalVideos": 832,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7479,6 +7479,15 @@
       "channel": {
         "name": "Vox",
         "id": "UCLXo7UDZvByw2ixzpQCufnA"
+      }
+    },
+    {
+      "id": "_qHHczHsLCo",
+      "title": "JENNIE Reveals Her Biggest Cheerleader & Life As A BLACKPINK Girl | Ask Me Anything | ELLE",
+      "duration": 258,
+      "channel": {
+        "name": "ELLE",
+        "id": "UCV8Do0nwSrYP7lwPBS4LWpw"
       }
     }
   ]
