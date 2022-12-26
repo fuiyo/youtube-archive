@@ -1,6 +1,6 @@
 {
-  "totalSize": "14.3 GB",
-  "totalVideos": 862,
+  "totalSize": "14.4 GB",
+  "totalVideos": 863,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7758,6 +7758,15 @@
       "channel": {
         "name": "Fox News",
         "id": "UCXIJgqnII2ZOINSWNOGFThA"
+      }
+    },
+    {
+      "id": "1_CmqVHMbPY",
+      "title": "Massive Snow Storm Kills At Least 57 Across U.S.",
+      "duration": 265,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
