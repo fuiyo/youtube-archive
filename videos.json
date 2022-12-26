@@ -1,6 +1,6 @@
 {
   "totalSize": "14.2 GB",
-  "totalVideos": 844,
+  "totalVideos": 845,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7596,6 +7596,15 @@
       "channel": {
         "name": "CBS News",
         "id": "UC8p1vwvWtl6T73JiExfWs1g"
+      }
+    },
+    {
+      "id": "OAjNYO0NX34",
+      "title": "Death Toll Climbs To 36 As Storm System Continues To Be Felt Nationwide",
+      "duration": 151,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
