@@ -1,6 +1,6 @@
 {
   "totalSize": "14.8 GB",
-  "totalVideos": 883,
+  "totalVideos": 885,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7947,6 +7947,24 @@
       "channel": {
         "name": "FOX 11 Los Angeles",
         "id": "UCHfF8wFnipMeDpJf8OmMxDg"
+      }
+    },
+    {
+      "id": "Ce-JKXflcqE",
+      "title": "NYPD officers moving to Florida in droves",
+      "duration": 184,
+      "channel": {
+        "name": "CBS New York",
+        "id": "UCNZyLULUQBp5e9Q1cKtvk6Q"
+      }
+    },
+    {
+      "id": "S4KgU5v8H2o",
+      "title": "Downtown San Diego residents wanting to break leases because of the homeless crisis have options",
+      "duration": 207,
+      "channel": {
+        "name": "CBS 8 San Diego",
+        "id": "UCMscWako8oDvpdF4pppku-g"
       }
     }
   ]
