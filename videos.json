@@ -1,6 +1,6 @@
 {
   "totalSize": "14.9 GB",
-  "totalVideos": 889,
+  "totalVideos": 890,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8001,6 +8001,15 @@
       "channel": {
         "name": "1News",
         "id": "UCxPAYgO8OpFev3PUTKbsxNw"
+      }
+    },
+    {
+      "id": "OhR2AHW78Mg",
+      "title": "At Least 27 Dead In Erie County, New York After Winter Storm",
+      "duration": 216,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
