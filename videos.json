@@ -1,6 +1,6 @@
 {
   "totalSize": "14.6 GB",
-  "totalVideos": 877,
+  "totalVideos": 879,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7893,6 +7893,24 @@
       "channel": {
         "name": "Nas Daily",
         "id": "UCJsUvAqDzczYv2UpFmu4PcA"
+      }
+    },
+    {
+      "id": "rLaMOVoycGE",
+      "title": "Supreme Court blocks Biden from ending Title 42",
+      "duration": 113,
+      "channel": {
+        "name": "CBS Evening News",
+        "id": "UCAeWdyKJXGWmVAXFpgLNNTg"
+      }
+    },
+    {
+      "id": "pTNRVoq__-o",
+      "title": "Judge denies move for sanctions against Kari Lake",
+      "duration": 25,
+      "channel": {
+        "name": "12 News",
+        "id": "UCu7G08TrwPx_0WH4M7OxjIQ"
       }
     }
   ]
