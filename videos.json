@@ -1,6 +1,6 @@
 {
   "totalSize": "14.8 GB",
-  "totalVideos": 885,
+  "totalVideos": 886,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -7965,6 +7965,15 @@
       "channel": {
         "name": "CBS 8 San Diego",
         "id": "UCMscWako8oDvpdF4pppku-g"
+      }
+    },
+    {
+      "id": "G48JydN1Uj0",
+      "title": "Bryce Young, Will Anderson Jr., and Alabama team practice Tuesday ahead of the Sugar Bowl",
+      "duration": 247,
+      "channel": {
+        "name": "Alabama Crimson Tide on AL.com",
+        "id": "UCXovZWLiLAQwhc07L_TuHYQ"
       }
     }
   ]
