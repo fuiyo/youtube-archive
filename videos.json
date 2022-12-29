@@ -1,6 +1,6 @@
 {
   "totalSize": "15.0 GB",
-  "totalVideos": 894,
+  "totalVideos": 895,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8046,6 +8046,15 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "BjiuNBRg598",
+      "title": "Couple opting to drive 27 hours back home amid nationwide Southwest flight cancellations",
+      "duration": 240,
+      "channel": {
+        "name": "ABC7 News Bay Area",
+        "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
       }
     }
   ]
