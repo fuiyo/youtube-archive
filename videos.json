@@ -1,6 +1,6 @@
 {
   "totalSize": "15.2 GB",
-  "totalVideos": 911,
+  "totalVideos": 912,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8199,6 +8199,15 @@
       "channel": {
         "name": "Dream Maker",
         "id": "UCt1oMgE9-AYV2ApWpZVdonA"
+      }
+    },
+    {
+      "id": "PICX34sdvrk",
+      "title": "Bryan Kohberger: New details on suspect in Idaho killings | NewsNation Live",
+      "duration": 195,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
