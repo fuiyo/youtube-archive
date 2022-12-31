@@ -1,6 +1,6 @@
 {
-  "totalSize": "15.2 GB",
-  "totalVideos": 919,
+  "totalSize": "15.3 GB",
+  "totalVideos": 920,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8271,6 +8271,15 @@
       "channel": {
         "name": "KOIN 6",
         "id": "UCXN7rPhZK6Rp8lMhvpSri_Q"
+      }
+    },
+    {
+      "id": "p9Z5Ws1HMKc",
+      "title": "Former friend of Bryan Kohberger 'in complete shock' | Rush Hour",
+      "duration": 245,
+      "channel": {
+        "name": "NewsNation",
+        "id": "UCCjG8NtOig0USdrT5D1FpxQ"
       }
     }
   ]
