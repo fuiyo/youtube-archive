@@ -1,6 +1,6 @@
 {
   "totalSize": "15.4 GB",
-  "totalVideos": 925,
+  "totalVideos": 926,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8325,6 +8325,15 @@
       "channel": {
         "name": "Girl With The Dogs",
         "id": "UCUFnGWHIQvybwmR7XDh7-9A"
+      }
+    },
+    {
+      "id": "38Bv94-jzkw",
+      "title": "Couple targeted in racist rant at San Ramon In-N-Out overwhelmed by public support",
+      "duration": 191,
+      "channel": {
+        "name": "KPIX CBS SF Bay Area",
+        "id": "UCF4LEacx9sDvAbEJnlaJfKQ"
       }
     }
   ]
