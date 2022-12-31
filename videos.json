@@ -1,6 +1,6 @@
 {
   "totalSize": "15.4 GB",
-  "totalVideos": 926,
+  "totalVideos": 927,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8334,6 +8334,15 @@
       "channel": {
         "name": "KPIX CBS SF Bay Area",
         "id": "UCF4LEacx9sDvAbEJnlaJfKQ"
+      }
+    },
+    {
+      "id": "E3eIYrwonL4",
+      "title": "Suspect in custody in Idaho murder investigation",
+      "duration": 137,
+      "channel": {
+        "name": "CBS Mornings",
+        "id": "UC-SJ6nODDmufqBzPBwCvYvQ"
       }
     }
   ]
