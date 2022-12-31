@@ -1,6 +1,6 @@
 {
   "totalSize": "15.4 GB",
-  "totalVideos": 927,
+  "totalVideos": 928,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8343,6 +8343,15 @@
       "channel": {
         "name": "CBS Mornings",
         "id": "UC-SJ6nODDmufqBzPBwCvYvQ"
+      }
+    },
+    {
+      "id": "xitENnpsTCM",
+      "title": "Last Freestyle of 2022 to Hopsin 'Lucifer Effect'",
+      "duration": 165,
+      "channel": {
+        "name": "Blind Fury TV",
+        "id": "UCQ8ph0Z8l11NUzFyx7l30-Q"
       }
     }
   ]
