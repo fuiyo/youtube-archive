@@ -1,6 +1,6 @@
 {
   "totalSize": "15.8 GB",
-  "totalVideos": 950,
+  "totalVideos": 951,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8550,6 +8550,15 @@
       "channel": {
         "name": "KHOU 11",
         "id": "UCXwRxm0zS0jBNTMOVI6xZJw"
+      }
+    },
+    {
+      "id": "dEn5HoQC1Cc",
+      "title": "Preliminary 5.4 earthquake strikes near area of December's 6.4 quake in California, USGS says",
+      "duration": 113,
+      "channel": {
+        "name": "ABC7 News Bay Area",
+        "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
       }
     }
   ]
