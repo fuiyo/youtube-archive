@@ -1,6 +1,6 @@
 {
   "totalSize": "15.9 GB",
-  "totalVideos": 952,
+  "totalVideos": 954,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8568,6 +8568,24 @@
       "channel": {
         "name": "Beluga",
         "id": "UCmSp4bDxS9R0jpeZEvkut2g"
+      }
+    },
+    {
+      "id": "dJBh3eRWzc4",
+      "title": "New details about the Idaho college murder suspect from his childhood friend",
+      "duration": 176,
+      "channel": {
+        "name": "ABC News",
+        "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "Ok7xARNyuBU",
+      "title": "Parents of suspect in Idaho University student murders speak out",
+      "duration": 158,
+      "channel": {
+        "name": "NBC News",
+        "id": "UCeY0bbntWzzVIaj2z3QigXg"
       }
     }
   ]
