@@ -1,6 +1,6 @@
 {
   "totalSize": "16.1 GB",
-  "totalVideos": 970,
+  "totalVideos": 971,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8730,6 +8730,15 @@
       "channel": {
         "name": "WTVR CBS 6",
         "id": "UC9ha3sh4YTCSK83dH6OlWTw"
+      }
+    },
+    {
+      "id": "ov9BKFrYysw",
+      "title": "Family spokesperson gives update on Damar Hamlin's condition: 'He's fighting' l GMA",
+      "duration": 175,
+      "channel": {
+        "name": "Good Morning America",
+        "id": "UCH1oRy1dINbMVp3UFWrKP0w"
       }
     }
   ]
