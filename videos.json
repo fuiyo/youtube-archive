@@ -1,6 +1,6 @@
 {
   "totalSize": "16.2 GB",
-  "totalVideos": 977,
+  "totalVideos": 979,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8793,6 +8793,24 @@
       "channel": {
         "name": "Caitlin Reilly",
         "id": "UCIfdf90ctybSVAL3x1-2cZw"
+      }
+    },
+    {
+      "id": "4ivSWOEidOM",
+      "title": "Video: Freezing drizzle in New Hampshire; rain to fill in",
+      "duration": 78,
+      "channel": {
+        "name": "WMUR-TV",
+        "id": "UCwuZjWoiT30kDTz0G41Y8gQ"
+      }
+    },
+    {
+      "id": "E88tnKsq4KA",
+      "title": "Signing Off",
+      "duration": 158,
+      "channel": {
+        "name": "SethEverman",
+        "id": "UCoNRSwYHJdy-yV1b82ZdHfQ"
       }
     }
   ]
