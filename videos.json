@@ -1,6 +1,6 @@
 {
   "totalSize": "16.3 GB",
-  "totalVideos": 984,
+  "totalVideos": 985,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8856,6 +8856,15 @@
       "channel": {
         "name": "Farnam Street (The Knowledge Project Podcast)",
         "id": "UCLtTf_uKt0Itd0NG7txrwXA"
+      }
+    },
+    {
+      "id": "W5OxWXbB5vw",
+      "title": "Regretting your class choice in games",
+      "duration": 266,
+      "channel": {
+        "name": "Viva La Dirt League",
+        "id": "UCchBatdUMZoMfJ3rIzgV84g"
       }
     }
   ]
