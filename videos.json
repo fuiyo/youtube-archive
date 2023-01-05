@@ -1,6 +1,6 @@
 {
   "totalSize": "16.5 GB",
-  "totalVideos": 991,
+  "totalVideos": 992,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -8919,6 +8919,15 @@
       "channel": {
         "name": "Forbes Breaking News",
         "id": "UCg40OxZ1GYh3u3jBntB6DLg"
+      }
+    },
+    {
+      "id": "IFrrZ3j8hw4",
+      "title": "Apex Legends Spellbound Collection Event",
+      "duration": 81,
+      "channel": {
+        "name": "Apex Legends",
+        "id": "UC0ZV6M2THA81QT9hrVWJG3A"
       }
     }
   ]
