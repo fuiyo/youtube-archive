@@ -1,6 +1,6 @@
 {
   "totalSize": "17.0 GB",
-  "totalVideos": 1022,
+  "totalVideos": 1023,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9198,6 +9198,15 @@
       "channel": {
         "name": "ABC News",
         "id": "UCBi2mrWuNuyYy4gbM6fU18Q"
+      }
+    },
+    {
+      "id": "xHPE6osXMHY",
+      "title": "Hear what law enforcement saw Idaho suspect doing in the days after killings",
+      "duration": 260,
+      "channel": {
+        "name": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw"
       }
     }
   ]
