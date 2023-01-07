@@ -1,6 +1,6 @@
 {
   "totalSize": "17.2 GB",
-  "totalVideos": 1041,
+  "totalVideos": 1042,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9369,6 +9369,15 @@
       "channel": {
         "name": "KGW News",
         "id": "UCKgAB8lqTbqbwXC-e6_9lhQ"
+      }
+    },
+    {
+      "id": "i4VzD2dx1WM",
+      "title": "Federal court rules South Carolina must redraw federal district lines",
+      "duration": 178,
+      "channel": {
+        "name": "News 19 WLTX",
+        "id": "UCVaXclURQZlakiTMzuwHvRw"
       }
     }
   ]
