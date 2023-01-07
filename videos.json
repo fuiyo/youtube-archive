@@ -1,6 +1,6 @@
 {
   "totalSize": "17.2 GB",
-  "totalVideos": 1040,
+  "totalVideos": 1041,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9360,6 +9360,15 @@
       "channel": {
         "name": "WWE",
         "id": "UCJ5v_MCY6GNUBTO8-D3XoAg"
+      }
+    },
+    {
+      "id": "tFgLBl-mwQA",
+      "title": "Downtown Portland church demolished after being destroyed in fire",
+      "duration": 128,
+      "channel": {
+        "name": "KGW News",
+        "id": "UCKgAB8lqTbqbwXC-e6_9lhQ"
       }
     }
   ]
