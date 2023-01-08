@@ -1,6 +1,6 @@
 {
   "totalSize": "17.3 GB",
-  "totalVideos": 1047,
+  "totalVideos": 1048,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9423,6 +9423,15 @@
       "channel": {
         "name": "NBC News",
         "id": "UCeY0bbntWzzVIaj2z3QigXg"
+      }
+    },
+    {
+      "id": "g7tQvKfcWxM",
+      "title": "Damar Hamlin Speaks Out Publicly for First Time Since Cardiac Arrest | E! News",
+      "duration": 99,
+      "channel": {
+        "name": "E! News",
+        "id": "UCjDsbbzHgTrGc4Ff26TJtsA"
       }
     }
   ]
