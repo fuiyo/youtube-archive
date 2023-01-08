@@ -1,6 +1,6 @@
 {
   "totalSize": "17.3 GB",
-  "totalVideos": 1051,
+  "totalVideos": 1052,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9459,6 +9459,15 @@
       "channel": {
         "name": "WCVB Channel 5 Boston",
         "id": "UC72UssJ1DNQcakZXm-B2-zw"
+      }
+    },
+    {
+      "id": "dFXtlZr59I0",
+      "title": "Teacher shot by 6-year-old improving, Virginia mayor says",
+      "duration": 115,
+      "channel": {
+        "name": "KTVB",
+        "id": "UCVKYCeuR3OyO-M2rfUXHDyg"
       }
     }
   ]
