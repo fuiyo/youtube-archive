@@ -1,6 +1,6 @@
 {
   "totalSize": "17.4 GB",
-  "totalVideos": 1057,
+  "totalVideos": 1058,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9513,6 +9513,15 @@
       "channel": {
         "name": "Highlight Heaven",
         "id": "UCq0grzC77X9UZd9xngQRTjg"
+      }
+    },
+    {
+      "id": "xwyW3UyaqaM",
+      "title": "Gervonta Davis vs. Hector Garcia: Highlights | SHOWTIME PPV",
+      "duration": 167,
+      "channel": {
+        "name": "SHOWTIME Sports",
+        "id": "UCFPoJNd0d4k1H9A6UOlikcg"
       }
     }
   ]
