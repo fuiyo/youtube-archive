@@ -1,6 +1,6 @@
 {
   "totalSize": "17.9 GB",
-  "totalVideos": 1099,
+  "totalVideos": 1100,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9891,6 +9891,15 @@
       "channel": {
         "name": "FOX 13 Tampa Bay",
         "id": "UC13mSI38YWz5zfvxXDPpePA"
+      }
+    },
+    {
+      "id": "qYwVcgY0rzs",
+      "title": "Napa Valley winery loses beloved 275-year-old tree to the California storm",
+      "duration": 154,
+      "channel": {
+        "name": "ABC7 News Bay Area",
+        "id": "UCYUbNjkuE4lsr2v1Id2O1oA"
       }
     }
   ]
