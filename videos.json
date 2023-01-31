@@ -1,6 +1,6 @@
 {
   "totalSize": "17.9 GB",
-  "totalVideos": 1107,
+  "totalVideos": 1108,
   "videos": [
     {
       "id": "D30r0CwtIKc",
@@ -9963,6 +9963,15 @@
       "channel": {
         "name": "Ice Spice",
         "id": "UCJTqwQj5iTHYrko04PbGI9w"
+      }
+    },
+    {
+      "id": "DhiBb4feffA",
+      "title": "Gov. Sanders activates Arkansas National Guard for support during winter weather",
+      "duration": 39,
+      "channel": {
+        "name": "5NEWS",
+        "id": "UCsjInJwm1vIMCeegrZSk_TQ"
       }
     }
   ]
